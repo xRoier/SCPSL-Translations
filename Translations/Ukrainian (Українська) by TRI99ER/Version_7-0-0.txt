@@ -1,0 +1,5 @@
+�� �����
+������� {KEYBINDING_INTERACTION}, ��� ��������� <color=yellow>�������� ����</color>.
+������� {KEYBINDING_INTERACTION}, ��� ������ <color=yellow>�������� ����</color>.
+��� <color=yellow>������</color> ��� ������ ����� <color=yellow>�������� ����</color>.
+��� ������� <color=yellow>�������� ����</color> ��� ������������ <color=yellow>�������</color>.
