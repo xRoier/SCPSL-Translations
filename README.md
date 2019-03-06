@@ -16,14 +16,16 @@ It is our main goal to __only have 1__ of each language.
 6. Push your commit(s)
 7. Open a Pull Request. Studio staff will review the translation
 ## From GitHub:
-Open a file and click "Edit this file"
-This will automatically make a fork of the repo on your account
-After you are satisfied with your changes, go to point 7 above 
+1. Open a file and click "Edit this file".
+   - This will automatically make a fork of the repo on your account.
+2. After you are satisfied with your changes, go to point 7 above 
 ***
 # EncodingNormalizer   
-`EncodingNormalizer.exe` is an application, which ensures correct encoding and formatting in translation files
-Please, use it before submiting your Pull Request
+`EncodingNormalizer.exe` is an application, which ensures correct encoding and formatting in translation files.
+
+**Please, use it before submiting your Pull Request.**
 ***
 # Missing characters
-Some characters might appear as squares in game
-This issue will be fixed when we'll update to Unity 2018.3 and TextMesh Pro 1.4.0
+Some characters might appear as squares in game.
+
+This issue will be fixed when we'll update to Unity 2018.3 and TextMesh Pro 1.4.0.
