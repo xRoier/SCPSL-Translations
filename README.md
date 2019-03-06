@@ -2,7 +2,7 @@
 This repo is used by Northwood Studios for hosting and managing translations for the SCP: Secret Laboratory game.   
 
 In the case where a bad/faulty translation of your chosen language already exists, we ask you to rather edit the current existing one, than adding another duplicate language.
-It is our main goal to __only have 1__ of each language.
+It is our main goal to __only have one__ translation per language.
 ***
 # How to contribute:   
 ## From local editor:   
