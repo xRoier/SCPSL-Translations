@@ -3,6 +3,8 @@ This repo is used by Northwood Studios for hosting and managing translations for
 
 In the case where a bad/faulty translation of your chosen language already exists, we ask you to rather edit the current existing one, than adding another duplicate language.
 It is our main goal to __only have one__ translation per language.
+
+__Please, follow the one PR - one language rule.__
 ***
 # How to contribute:   
 ## From local editor:   
