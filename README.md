@@ -13,7 +13,7 @@ __Please, follow the one PR - one language rule.__
    - Use software like `GitHub Desktop` or another Git Client
 3. Edit/Add what you want to change with a text editor
 4. Run `EncodingNormalizer.exe` on your changed files/folder
-5. __Only__ commit changes to files you've added/edited. **Don't** commit changes to `English (default)` (unless you're working on it)
+5. __Only__ commit changes to files you've added/edited. **Don't** commit changes to `English (default)`
    - Using a git client, you can choose which files to commit
 6. Push your commit(s)
 7. Open a Pull Request. Studio staff will review the translation
