@@ -4,8 +4,8 @@
 (Replace this text with language name)
 
 ## Type of change
-- [ ] New addition
-- [ ] Changes to current existing
+- [ ] New language addition
+- [ ] Changes to current existing language
 
 ## Have you tested the changes you've made?
 - [ ] Yes
