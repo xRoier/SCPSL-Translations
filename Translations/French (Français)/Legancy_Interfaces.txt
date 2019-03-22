@@ -1,17 +1,17 @@
 VOUS POUVEZ DONNER DES ORDRES
 SUIVEZ SES ORDRES
 MÊME NIVEAU D'ACCRÉDITATION
-Personnel Classe-D libre
+Classe-D échappés
 Scientifiques survivants
 Victimes des SCPs
-SCPs morts
-Ogive Alpha
+SCPs tués
+ogive Alpha
 Activée
-Non activée
-La prochaine manche débutera dans [time] secondes.
-CAPACITÉ
+Désactivée
+La prochaine partie débutera dans [time] secondes.
+CAPACITÉ SPÉCIALE
 CRÉER PORTAIL
 UTILISER PORTAIL
 VOUS ÊTES MORT
-Vous avez été tué par
-en tant que
+<color=#ff0000>Vous avez été tué par :</color>
+<color=#ffff00>en tant que :</color>
