@@ -1,61 +1,63 @@
 JOUER
 FERMER
-RÉSOLUTION DES OMBRES
-<size=40>OPTIONS</size>
-BASÉ SUR <i>SCP: CONTAINMENT BREACH</i>
+QUALITÉ DES OMBRES
+PARAMÈTRES
+BASE SUR <i>SCP: CONTAINMENT BREACH</i> | Translation by Ganxly
 RETOUR
-LANGUE
+<size=60>LANGUE</size>
 ANTICRÉNELAGE
-- SYNC. VERTICALE - Synchronise le taux de rafraîchissement avec celui de l'écran\n- LUMIÈRES PAR PIXEL - Nombre maximal de sources lumineuses sur les pixels\n- ANTICRÉNELAGE - Lisse les lignes et les contours des objets
+Changer les détails :\n- NOMBRE DE PIXELS DE LUMIÈRE : nombre maximum de sources lumineuses par pixel.\n- SYNC. VERTICALE : Synchroniser la fréquence de rafraîchissement du périphérique d'affichage.\n- ANTICRÉNELAGE : Lisse les pixels pour éviter l'effet escalier.
 <size=36>REJOINDRE UNE PARTIE</size>
 POST\nTRAITEMENT
 CRÉDITS
 QUITTER LE JEU
 Mode plein écran
-RÉSOLUTION
+PARAMÈTRES ÉCRAN
 CORRECTION COULEUR
-Entrez une adresse IP...
-RÉSOLUTION D'ÉCRAN
+Entrez l'adresse IP...
+RÉSOLUTION DE L'ÉCRAN
 JOUER
-LUMIÈRES PAR PIXEL
-ACTIVATION DES OMBRES
+Lumières par pixel
+TYPES D'OMBRES
 OMBRES
 <size=36>CRÉER UNE PARTIE</size>
-POST TRAITEMENT.\nCes valeurs n'affectent pas les performances. Les laisser aux valeurs par défaut est recommandé.
-Coupez le rendu des lumières si votre configuration est de faible puissance.\nRend le jeu plus moche.
-SYNC. VERTICALE
+Modifier les paramètres de post-traitement,\nCes paramètres n'affectent pas la performance,\n Laisser la valeur par défaut est recommandé.
+Rendu de la lumière :\nLorsqu'il est OFF : rend la qualité du jeu pire, il est seulement recommandé de le désactiver pour les petites configurations.
+Synchronisation verticale
 CONNEXION
-PARAMÈTRES DE RENDU
-Changer les paramètres des ombres. \nBaisser la qualité peut améliorer la fluidité du jeu.
+GRAPHISMES
+Changer les préférences des ombres,\n Réduire cette valeur augmentera la fluidité du jeu. 
 MENU PRINCIPAL
-RENDU LÉGER DES LUMIÈRES
-FLOU DE MOUVEMENT
-DISTANCE DU RENDU\nDES OMBRES
+MODE DE RENDU DE LA LUMIÈRE
+FLOU CINÉTIQUE
+DISTANCE DES OMBRES
 DÉTAILS
 3. SCP-914
 TUTORIELS
 ATTENTION
-Afficher les serveurs disponibles.
-Ne plus afficher
-Choisissez votre mode de connexion
-LISTE DES SERVEURS
-OK
-TROUVER UN SERVEUR
-2. Utilisation des armes
-Nous utilisons Discord comme un forum. Aucune installation n'est nécessaire.\n(cliquez sur le logo pour rejoindre)
-Par défaut, le serveur se mettra sur le reseau local.\nVos amis ont besoin de l'adresse IP directe pour se connecter.\nSi vous souhaitez créer un serveur public, sélectionnez LocalAdmin.exe et suivez les instructions.\nSi vous avez des questions, adressez-vous au support technique\n(lien dans le menu principal, Anglais et Polonais seulement)
-1. LES BASES DU JEU
-Le jeu est encore à l'état de Beta publique.\nDes problèmes de connexion sont possibles et autres bugs sont présents.\nLe statut actuel ne reflète pas la version finale du jeu.
-4. (PLUS À VENIR)
+Voir les serveurs disponibles
+Ne plus voir ce message
+De quelle manière voulez-vous vous connecter ?
+NAVIGATEUR DE SERVEURS
+D'ACCORD
+TROUVER UNE PARTIE
+2. L'Utilisation des armes
+Nous utilisons discord comme un forum, aucune installation n’est requise.\n(cliquez sur le logo pour rejoindre)
+Par défaut, le serveur est défini sur votre réseau local.\nVos amis aurons besoin de votre IP publique pour se connecter.\nSi vous voulez créer un serveur public, ouvrez LocalAdmin.exe et suivez les instructions.\nSi vous avez des questions, vous pouvez contacter notre support technique (lien au menu principal)
+1. Les bases
+Le jeu est toujours en bêta.\nVous pouvez rencontrer des bugs en jeu ainsi que des bugs de connexion.\nL'état actuel ne reflète pas la version finale.
+4. (plus de tutoriels plus tard)
 CONNEXION DIRECTE
-SUPPORT / FORUM
-VOLUME
-Entrez l'adresse IP du serveur à rejoindre.
+SUPPORT TECHNIQUE / FORUM
+VOLUME DU SON
+Entrez l'adresse IP spécifique du serveur.
 TÉLÉCHARGEMENT DES DONNÉES
 AUCUN SERVEUR DISPONIBLE
-APPUYEZ SUR ESC POUR FERMER / ANNULER
+APPUYEZ SUR ÉCHAP POUR FERMER / ANNULER
 CONTRÔLES
-NIVEAU DE SANG
-Limite d'IPS
-La limite d'IPS ne fonctionne pas quand la sync. verticale est activée !
-Set Default
+<size=25>QUANTITÉ MAXIMUM DE SANG</size>
+Limite IPS
+Limite de IPS ne fonctionne pas si la V-Sync est active
+Réglages par défaut
+Nous utilisons les discussions de Steam comme forum. (Cliquez sur le logo ci-dessous pour ouvrir le forum)
+
