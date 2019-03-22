@@ -1,28 +1,28 @@
-Ok, commençons...\nApprendre les bases du tir rendra le jeu... <i>plus simple</i>.\nRamassez le pistolet qui vient d'arriver sur la table.
+Ok, commençons...\nApprendre les mécaniques pour tirer, rend le jeu... <i>plus facile</i>.\nPrenez le pistolet qui arrive sur la table.
 Tutorial2_Curtain
-Bon, vous venez de ramasser l'arme la plus merdique du jeu. Devenez familier avec, parce qu'elle vous permettra de vous sortir de situations plutôt difficiles. Oh, ce serait mieux avec des munitions. Il est difficile de trouver des chargeurs dans le jeu, je vous conseille de tirer le plus efficacement possible.
+Bon, vous venez juste de récupérer le pistolet le plus merdique du jeu. Habituez-vous, il peut vous sortir de pas mal de situations. Oh, et c'est bien d'avoir des munitions. Il est plutôt difficile d'en récupérer en jeu, alors tirez le plus efficacement possible.
 Tutorial2_GiveAmmo
-Souvenez-vous, les tirs à la tete abattront vos adversaires plus rapidement. Si vous manquez de munitions lors du test, je vous en donnerai davantage !
-<color=#00FF58>Appuyez sur <b>R</b> pour recharger\n <b>Clic droit</b> de la souris pour viser\n<b>Clic gauche</b> pour tirer.</color>
+Souvenez-vous, les tirs dans la tête font plus de dégâts. Si vous utilisez toutes vos munitions dans ce test, je vous en donnerais plus !
+<color=#00FF58>Utilisez <b>R</b> pour recharger,\n<b>clic droit</b> pour zoomer <b>clic gauche</b> pour tirer.</color>
 Tutorial2_Result
-Impressionnant, vous les avez tous eus avec un seul chargeur !
+Impressionnant vous les avez tués avec un seul chargeur !
 Tutorial2_Jumpin
-Hey, vous êtes plutôt bon au tir !
+Hé ! vous êtes plutôt fort pour tirer !
 Tutorial2_Jumpin
-J'en attendais plus de vous, quel dommage.
-Tutorial2_GivenNTFRifle
-Ok, j'espère que vous détestez cette arme autant que moi, laissons les jouets de côté, et prenez une arme digne de ce nom. Celle-ci a une vision nocturne, ce qui vous facilitera la tâche.\nNotez que viser à l'aide du <b>CLIC DROIT</b> garantit une meilleure précision et une réduction du recul.
+J'avais espéré plus de compétences... Quel dommage.
+Tutorial2_GiveNTFRifle
+Ok, j'espère que vous détestez cette arme autant que moi, mettons les jouets de côté, et prenons une vraie arme. Celle-ci a un viseur nocturne qui rend le tir plus facile.\nVous devrez le savoir, lorsque vous zoomez / visez, la précision est garantie et le recul est réduit.
 Tutorial2_Preset
 Tutorial2_Curtain
 Tutorial2_Curtain
-Je constate que vous maîtrisez les bases ! Je vous ai préparé un défi.\nVous avez 20 secondes pour tuer autant d'adversaires que possible.\nCommençons !
-3, 2, 1... Partez !
+Je vois que vous avez maîtrisé les bases ! J'ai préparé un défi pour vous.\nVous avez 20 secondes pour tuer le maximum d'ennemis.\nOn commence !
+Prêt ? 3, 2, 1... GO
 Tutorial2_Preset
 Tutorial2_Curtain
 
 Tutorial2_ResultText
 Tutorial2_Curtain
-C'est fini !
-Souvenez-vous que vous pouvez toujours revenir ici dans le futur\nsi vous avez besoin d'améliorer vos compétences !\nÀ plus tard !
+Le temps est écoulé !
+Souvenez-vous, vous pouvez revisiter ce tutoriel à n'importe quel moment\nsi vous voulez vous améliorez!\nA la prochaine!
 
 Tutorial2_MoreAmmo
