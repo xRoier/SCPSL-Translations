@@ -2,8 +2,7 @@ JOUER
 FERMER
 QUALITÉ DES OMBRES
 PARAMÈTRES
-BASE SUR <i>SCP: CONTAINMENT BREACH</i> | Translation by Ganxly
-RETOUR
+BASE SUR <i>SCP: CONTAINMENT BREACH</i>
 <size=60>LANGUE</size>
 ANTICRÉNELAGE
 Changer les détails :\n- NOMBRE DE PIXELS DE LUMIÈRE : nombre maximum de sources lumineuses par pixel.\n- SYNC. VERTICALE : Synchroniser la fréquence de rafraîchissement du périphérique d'affichage.\n- ANTICRÉNELAGE : Lisse les pixels pour éviter l'effet escalier.
