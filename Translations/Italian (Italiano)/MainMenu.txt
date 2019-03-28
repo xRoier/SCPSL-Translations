@@ -57,5 +57,5 @@ PREMI ESC PER CHIUDERE / ANNULLARE
 MODIFICA TASTI
 SANGUE
 Limita FPS
-Se il vSync � attivo i frame non verranno limitati!
+Se il vSync č attivo i frame non verranno limitati!
 Ripristina

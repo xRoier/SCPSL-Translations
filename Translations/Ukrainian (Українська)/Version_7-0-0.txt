@@ -1,5 +1,5 @@
-�� �����
-������� {KEYBINDING_INTERACTION}, ��� ��������� <color=yellow>�������� ����</color>.
-������� {KEYBINDING_INTERACTION}, ��� ������ <color=yellow>�������� ����</color>.
-��� <color=yellow>������</color> ��� ������ ����� <color=yellow>�������� ����</color>.
-��� ������� <color=yellow>�������� ����</color> ��� ������������ <color=yellow>�������</color>.
+ТИ ПОМЕР
+Натисни {KEYBINDING_INTERACTION}, щоб поставити <color=yellow>Менеджер зброї</color>.
+Натисни {KEYBINDING_INTERACTION}, щоб підняти <color=yellow>Менеджер зброї</color>.
+Цей <color=yellow>ńňŕíîę</color> вже містить чужий <color=yellow>Менеджер зброї</color>.
+Тобі потрібен <color=yellow>Менеджер зброї</color> щоб скористатись <color=yellow>станком</color>.
