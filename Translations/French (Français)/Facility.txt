@@ -12,7 +12,7 @@ PARAMÈTRES
 L'OGIVE ALPHA EST DÉSACTIVÉE
 ACCÈS REFUSÉ
 CHAT VOCAL
-INVENTAIRE COMPLET
+INVENTAIRE PLEIN
 SENSIBILITÉ SOURIS
 PIRATAGE
 RAMASSER...
@@ -28,6 +28,6 @@ CONTINUER
 VOLUME PRINCIPAL
 EN LIGNE
 Vous avez rejoint la FIM Epsilon-11.
-Vous avez rejoint rejoint l'Insurrection du Chaos.
+Vous avez rejoint l'Insurrection du Chaos.
 VOUS ÊTES
 Échappé en : [escape_minutes] minutes et [escape_seconds] secondes
