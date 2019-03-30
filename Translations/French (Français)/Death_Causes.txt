@@ -1,4 +1,4 @@
-Mort d'une explosion.
+Tué par une explosion.
 La chute a achevé sa vie.
 <color=#ff0000>Utilisé comme sacrifice pour recontenir SCP-106.</color>
 <color=#ff0000>Perdu dans la dimension de poche de SCP-106.</color>
