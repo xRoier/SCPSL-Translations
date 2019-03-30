@@ -3,7 +3,7 @@
 <size=80>DÉCONNECTÉ</size>\nL'Identifiant de connexion spécifié n'existe pas.
 <size=80>DÉCONNECTÉ</size>\nLe canal spécifié n'existe pas.
 <size=80>DÉCONNECTÉ</size>\nLe serveur est plein.
-<size=80>DÉCONNECTÉ</size>\nMauvais paquet Reçu.
+<size=80>DÉCONNECTÉ</size>\nMauvais paquet reçu.
 <size=80>DÉCONNECTÉ</size>\nConnexion perdue (expirée).
 <size=80>DÉCONNECTÉ</size>\nConnexion perdue (expirée).
 <size=80>DÉCONNECTÉ</size>\nL'opération n'est pas supportée.
