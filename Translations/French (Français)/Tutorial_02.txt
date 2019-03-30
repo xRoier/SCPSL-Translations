@@ -2,7 +2,7 @@ Ok, commençons...\nApprendre les mécaniques pour tirer, rend le jeu... <i>plus
 Tutorial2_Curtain
 Bon, vous venez juste de récupérer le pistolet le plus merdique du jeu. Habituez-vous, il peut vous sortir de pas mal de situations. Oh, et c'est bien d'avoir des munitions. Il est plutôt difficile d'en récupérer en jeu, alors tirez le plus efficacement possible.
 Tutorial2_GiveAmmo
-Souvenez-vous, les tirs dans la tête font plus de dégâts. Si vous utilisez toutes vos munitions dans ce test, je vous en donnerais plus !
+Souvenez-vous, les tirs dans la tête font plus de dégâts. Si vous utilisez toutes vos munitions dans ce test, je n'en vous donnerais plus !
 <color=#00FF58>Utilisez <b>R</b> pour recharger,\n<b>clic droit</b> pour zoomer <b>clic gauche</b> pour tirer.</color>
 Tutorial2_Result
 Impressionnant vous les avez tués avec un seul chargeur !
