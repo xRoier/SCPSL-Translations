@@ -19,7 +19,7 @@ Pièce\n\n<color=#ffa500ff><size=14>Cela semble être 50 cents !</size></color>
 Gobelet\n\n<size=14>Un gobelet contenant un fluide non identifié.</size>
 Gestionnaire d'armes\n\n<size=14>Pour déposer vos munitions et modifier vos armes à l'aide du poste de travail.</size>
 Fusil standard d'Epsilon-11\n\n<color=#0096FF><size=14>Équipement standard de la FIM Epsilon-11.</size></color>
-Projet 90\n\n<size=14>Une version améliorée de P90 SMG.</size>
+Projet 90\n\n<size=14>Une version améliorée de la P90 SMG.</size>
 Munitions
 MP7\n\n<size=14>Équipement standard des gardes du site.</size>
 Logicer\n\n<size=14>Mitrailleuse légère.\n<color=#008f1e>Équipement standard de l'Insurrection du Chaos.</size>
