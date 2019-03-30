@@ -21,11 +21,11 @@ TYPES D'OMBRES
 OMBRES
 <size=36>CRÉER UNE PARTIE</size>
 Modifier les paramètres de post-traitement,\nCes paramètres n'affectent pas la performance,\n Laisser la valeur par défaut est recommandé.
-Rendu de la lumière :\nLorsqu'il est OFF : rend la qualité du jeu pire, il est seulement recommandé de le désactiver pour les petites configurations.
+Rendu de la lumière :\nLorsqu'il est OFF : cela rend le jeu moins beau, il est seulement recommandé de le désactiver pour les petites configurations.
 Synchronisation verticale
 CONNEXION
 GRAPHISMES
-Changer les préférences des ombres,\n Réduire cette valeur augmentera la fluidité du jeu. 
+Changer les préférences des ombres,\n Réduire cette valeur peut augmenter la fluidité du jeu. 
 MENU PRINCIPAL
 MODE DE RENDU DE LA LUMIÈRE
 FLOU CINÉTIQUE
