@@ -58,4 +58,4 @@ CONTRÔLES
 Limite IPS
 Limite de IPS ne fonctionne pas si la V-Sync est active
 Réglages par défaut
-Nous utilisons les discussions de Steam comme forum. (Cliquez sur le logo ci-dessous pour ouvrir le forum)
+We use Steam Discussions as a forum. (Click the logo below to open the forum) 
