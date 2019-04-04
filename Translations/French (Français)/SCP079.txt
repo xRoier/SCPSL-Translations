@@ -1,17 +1,17 @@
-AUXILIARY POWER
+<size=30>PUISSANCE AUXILIAIRE</size>\n
 EXPERIENCE
-CAMERA FEED ONLINE
-PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
-Experience gained:
-Cooperative work
-Class-D termination assist
-C. I. termination assist
-MTF termination assist
-Scientist termination assist
-SCP termination assist
-LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
-General interactions
-You are being attacked!
-Generators have been highlighted on the map
+TRANSMISSION DE LA CAMERA EN LIGNE 
+APPUYEZ SUR [KEY] POUR BASCULER LA CARTE DE SURVEILLANCE
+Experience gagne :
+Assistance
+Class-D elimine
+Insurrection du chaos elimine
+FIM E-11 elimine
+Scientifique elimine
+SCP elimine
+PORTES VERROUILLEES : [LOCKED_NUM]<size=25>CLIC DROIT POUR TOUT DEVERROUILLER</size>
+Interactions generales
+Vous etes attaques !
+Les generateurs ont ete mis en evidence sur la carte
 DANGER
-SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}
+SCPs{0}FIM E-11 & Gardes{1}Scientifiques{2}Classes-D{3}Insurrection du Chaos{4}

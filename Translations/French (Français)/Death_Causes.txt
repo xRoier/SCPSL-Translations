@@ -1,17 +1,17 @@
-Mort dans une explosion.
-Chute fatale.
-Fémurs rompus.
-Égaré dans la Dimension de Poche.
-Ce sont les restes de SCP-106.
-Choc électrique de haut voltage.
-Écrasé par une lourde structure.
-De nombreuses blessures par balles sur son corps. Il semble qu'une munition [ammotype] fut utilisée.
-Nuque brisée à la base du crâne.
-N'a pas survécu à sa rencontre avec SCP-106.
-Guéri de la peste.
-inconnue.
-Il s'agit du corps de <b>[user]</b>, un [class] !\n\nCause de la mort : [cause]
-A été déchiré par SCP-096.
-Powerful bite to the cranium.
-Melted by highly corrosive substance.
-Post-explosion wounds.
+Tué par une explosion.
+La chute a achevé sa vie.
+<color=#ff0000>Utilisé comme sacrifice pour recontenir SCP-106.</color>
+<color=#ff0000>Perdu dans la dimension de poche de SCP-106.</color>
+<color=#ff0000>Reste de SCP-106.</color>
+Décharges électriques à haute intensité.
+Écrasé par une structure lourde.
+Il y a beaucoup de blessures par balles sur le corps, c'est probablement du <color=#ffff00>[ammotype]</color> qui a été utilisée.
+<color=#ff0000>Nuque brisée à la base du crâne.</color>
+<color=#ff0000>N'a pas survécu à sa rencontre avec SCP-106.</color>
+<color=#ff0000>Soigné de la peste.</color>
+Cause de la mort inconnue.
+C'est le corps de <b>[user]</b>, il était [class] !\n\nCause de la mort : [cause]
+<color=#ff0000>Mis en pièces par SCP-096.</color>
+<color=#ff0000>Morsure puissante au crâne.</color>
+Rongé par une substance fortement corrosive.
+Blessures de post-explosion.

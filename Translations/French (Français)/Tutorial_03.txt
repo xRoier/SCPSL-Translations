@@ -1,15 +1,15 @@
-C'est parti ! Il n'y aura aucune partie dans laquelle vous n'aurez pas besoin d'utiliser SCP-914. Il s'agit d'une machine spéciale vous permettant de changer le niveau d'accès de vos cartes. Veuillez entrer dans la chambre de confinement.
-Regardez le panneau avec les boutons. Il peut tourner sur 5 positions différentes.
-1:1 - change le type d'une carte. Par exemple:\nla carte de Scientifique vers une carte de Garde;\nou la carte d'un Commandant Epsilon-11 vers une carte d'Ingénieur de Confinement.
-"Fine" - augmente le niveau de la carte, et "Coarse" - la réduit.
-"Very fine" et "Rough" sont équivalents à "Fine" et "Coarse". Ils sont plus rapides, mais plus risqués.
+Et c'est parti ! Il n'y a aucune partie ou vous n'allez pas utiliser SCP-914. C'est une machine spéciale qui permet de changer le niveau des cartes d'accès. S'il vous plait, entrez dans la zone de confinement.
+Regardez le panneau avec la poignée. Il peut être tourné dans 5 positions différentes.
+1:1 - Change le type de carte. Par exemple:\nla carte de scientifique à une carte de garde;\nou une carte de commandant Epsilon-11 à une carte d'ingénieur de confinement.
+Fine - augmente le niveau, et Coarse - réduit le niveau.
+Very fine et Rough sont les équivalents de Fine et Coarse. Ils sont plus rapides, mais plus dangereux.
 Tutorial3_GiveKeycard
-Je viens de vous jeter une carte quelque part sur le sol.\nRamassez-la et essayez de l'améliorer au plus haut niveau - la carte O5.
-<color=#00FF58>Positionner le bouton sur <b>"Fine", "Very Fine" ou "1:1"</b> pour améliorer la carte.
-Qu'avez-vous fait ? Je ne m'attendais pas à ça... il n'y a rien d'intéressant, retournez à SCP-914 !
-Vous avez fait une erreur et vous l'avez détruite. Pas de problème, prenez-en une autre.
-Oh, vous avez refait une erreur ! Allez ! Prenez-en une autre.
-Vous savez quoi ? Je devrais vous donner 5 cartes pour une fois.\nN'oubliez pas, nous voulons une carte de niveau O5, et non des cendres.
-Euh, vous le faites exprès, non ? Vous trouvez ça drôle ? Vous savez ce que je peux faire, et vous ne pouvez pas m'en empêcher ? Quitter le jeu ! Eh oui ! Revenez plus tard quand vous serez un peu plus malin !
+J'ai jeté une carte au sol.\nRécupérez-la et améliorez-la au meilleur niveau - la carte des O5.
+<color=#00FF58>Mettez la poignée sur <b>Fine, Very fine ou 1:1</b> pour améliorer la carte.
+Qu'avez-vous fait ? Je ne me doutais pas de ça ... il n'y a rien d'intéressant, retournez chez SCP-914!
+Vous avez fait quelque chose de mal et vous l'avez brûlé. Pas de problème, prenez-en une autre.
+Oh, vous l'avez encore fait! Allons! Prenez la suivante.
+Vous savez quoi ? Peut-être que je vais vous donner 5 cartes pour une fois ? Rappelez-vous, nous voulons une carte d'accès au niveau O5, pas des cendres.
+Ehh, vous le faites exprès ! Vous croyez que c'est marrant ? Vous savez ce que je peux faire... Et que vous ne pouvez pas anticiper ? Quitter le jeu ! Ouais ! Reviens plus tard, quand tu seras un peu plus intelligent !
 Tutorial3_Quit
-Bien joué ! Avec cette carte vous pouvez entrer n'importe où ! Je vois que vous avez saisi le principe de SCP-914. J'espère que vous serez capable d'utiliser ces compétences en jeu. Bonne chance !
+Bravo ! Avec cette carte vous pouvez entrer partout ! Je vois que vous comprenez l'intérêt de SCP-914. J'espère que vous serez en mesure d'utiliser les compétences acquises dans une partie normale. Bonne chance et amusez-vous bien !
