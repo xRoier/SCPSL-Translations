@@ -7,7 +7,7 @@ In the case where a bad/faulty translation of your chosen language already exist
 * Do not submit a made-up/joke language.
 * Do not remove contributers from the contributors file.
 
-__Please, follow the one PR - one language rule.__
+__Please, follow theese rules, as well as the guidelines in the Pull Request template__
 ***
 # How to contribute:   
 ## From local editor:   
