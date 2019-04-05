@@ -3,9 +3,9 @@ This repo is used by Northwood Studios for hosting and managing translations for
 
 In the case where a bad/faulty translation of your chosen language already exists, we ask you to rather edit the current existing one, than adding another duplicate language.
 
-* Do not submit a language that already exists.
-* Do not submit a made-up/joke language.
-* Do not remove contributers from the contributors file.
+* Do **not** submit a language that already exists.
+* Do **not** submit a made-up/joke language.
+* Do **not** remove contributers from the contributors file.
 
 __Please follow these rules, as well as the guidelines in the Pull Request template__
 ***
