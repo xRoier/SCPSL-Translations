@@ -11,20 +11,20 @@ Karta správce zařízení\n<size=14><color=#f77>Administrace : Úroveň 2</colo
 Zařízení Vzbouřenců Chaosu\n<size=14><color=#f77>Administrace : Úroveň 3</color></size>\n<size=16>\nMožnost přístupu do kontajnmentů : <color=#ffff00>STŘEDNÍ</color>\nPřístup do zbrojnice : <color=#00ff00>PLNÝ</color>\nPřístup k interkomu : <color=#00ff00>ANO</color>\n\nAutorizace checkpointu : <color=#00ff00>ANO</color>\nAutorizace vstupní brány : <color=#00ff00>ANO</color>\n</size>
 Karta úrovně 05\n<size=14><color=#f77>Administrace : Úroveň 4</color></size>\n<size=16>\nMožnost přístupu do kontajnmentů : <color=#00ff00>PLNÁ</color>\nPřístup do zbrojnice : <color=#00ff00>PLNÝ</color>\nPřístup k interkomu : <color=#00ff00>ANO</color>\n\nAutorizace checkpointu : <color=#00ff00>ANO</color>\nAutorizace vstupní brány : <color=#00ff00>ANO</color>\n</size>
 Vysílačka\n\n<size=14>Zařízení napájené bateriemi pro komunikaci na dálku.</size>
-COM15 Pistol\n\n<size=14>Basic self-defense pistol.</size>
+COM15 Pistol\n\n<size=14>Jednoduchá pistol na sebe-obranu.</size>
 Lékárnička\n\n<size=14>Umožňuje vyléčit zranění.</size>
 Svítilna\n\n<size=14>"Budiž světlo!"</size>
 MicroHID\n\n<size=14>Přenosný vysoce-intenzivní výbojový nástroj.</size>
 Mince\n\n<size=14>Vypadá to na 20 korun!</size>
 Kelímek\n\n<size=14>Kelímek plný neidentifikovatelné tekutiny.</size>
-Weapon Manager\n\n<size=14>Customize our weapons.</size>
+Weapon Manager\n\n<size=14>Vylepši si zbraně.</size>
 Standartní puška Epsilon-11\n\n<size=14>Standartní výbava Nine-Tailed Fox.</size>
-Project 90\n\n<size=14>An improved version of P90 SMG.</size>
+Project 90\n\n<size=14>Vylepšená verze P90.</size>
 Munice
-MP7\n\n<size=14>Guard's standard equipment.</size>
-Logicer\n\n<size=14>Light machine gun.\nStandard C. I. equipment.</size>
+MP7\n\n<size=14>Hlídačovo základní zbroj.</size>
+Logicer\n\n<size=14>Lehký kulomet.\nStandard C. I. equipment.</size>
 Fragmentation Grenade\n\n<size=14>Boom!</size>
-Flash Grenade\n\n<size=14>Blinds the opponents.</size>
+Flash Grenade\n\n<size=14>Oslepí nepřátele.</size>
 Odzbrojovač\n\n<size=14>Odzbrojí nepřítele.</size>
 Munice
 Munice
