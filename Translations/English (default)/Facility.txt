@@ -17,7 +17,7 @@ M. SENSITIVITY
 HACKING
 PICKING UP...
 Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
-[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability 
+[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
 DOOR HAS BEEN LOCK-DOWN BY SCP-079
 Fullscreen mode
 Are you sure you want to leave the server?
