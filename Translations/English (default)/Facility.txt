@@ -1,7 +1,7 @@
 VOICE VOLUME
 Yes
 FORCE START
-SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
+SCP-106 RE-CONAINMENT\nPROCEDURE OVERRIDE
 Invert Y-axis
 SUMMARY
 Cancel
@@ -17,7 +17,7 @@ M. SENSITIVITY
 HACKING
 PICKING UP...
 Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
-[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
+[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability 
 DOOR HAS BEEN LOCK-DOWN BY SCP-079
 Fullscreen mode
 Are you sure you want to leave the server?
@@ -31,3 +31,4 @@ You escaped as a Scientist and joined the MTF units.
 You escaped as a Class D and joined the Chaos Insurgency.
 YOU ARE
 Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Wait [time] until you can use [item] again.

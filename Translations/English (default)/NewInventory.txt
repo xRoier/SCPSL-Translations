@@ -1,13 +1,13 @@
-Janitor Keycard:No description
-Scientist Keycard:No description
-Research Supervisor Keycard:No description
-Zone Manager Keycard:No description
-Guard Keycard:No description
-MTF Cadet Keycard:No description
-Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
-Facility Manager Keycard:No description
+Janitor Keycard:No description 
+Scientist Keycard:No description 
+Research Supervisor Keycard:No description 
+Zone Manager Keycard:No description 
+Guard Keycard:No description 
+MTF Cadet Keycard:No description 
+Containment Engineer Keycard:No description 
+MTF Lieutenant Keycard:No description 
+MTF Commander Keycard:No description 
+Facility Manager Keycard:No description 
 Chaos Insurgency Access Device
 O5-level Keycard
 Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
