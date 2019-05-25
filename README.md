@@ -34,3 +34,5 @@ __Please follow these rules, as well as the guidelines in the Pull Request templ
 Some characters might appear as squares in game.
 
 This issue will be fixed when we'll update to Unity 2018.3 and TextMesh Pro 1.4.0.
+***
+## If you got any questions, please open a [Issue](https://github.com/northwood-studios/SCPSL-Translations/issues)
