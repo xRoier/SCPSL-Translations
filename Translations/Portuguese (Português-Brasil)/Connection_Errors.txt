@@ -1,4 +1,4 @@
-﻿<size=80>VOCÊ FOI EXPULSO</size>\nO servidor foi forçado a termirnar a conexão.\n<size=26>\nVocê foi temporariamente banido pelo administrador.\nou não cumpria com o requisitado pelo servidor. (Ex: Conexão com a Steam).</size>
+<size=80>VOCÊ FOI EXPULSO</size>\nO servidor foi forçado a termirnar a conexão.\n<size=26>\nVocê foi temporariamente banido pelo administrador.\nou não cumpria com o requisitado pelo servidor. (Ex: Conexão com a Steam).</size>
 <size=80>DESCONECTADO</size>\nO host específicado não existe.
 <size=80>DESCONECTADO</size>\nA conexão específicada não existe.
 <size=80>DESCONECTADO</size>\nO canal especificado não existe.

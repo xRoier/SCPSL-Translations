@@ -1,4 +1,4 @@
-﻿VOLUME DA VOZ
+VOLUME DA VOZ
 OK
 INICIAR
 RE-CONTENÇÃO DO SCP-106\nPROCESSO DE CONTENÇÃO
@@ -17,7 +17,7 @@ SENSIBILIDADE
 HACKEANDO
 PEGANDO...
 Aumentar o brilho <b>piora significamente a emoção </b>do jogo.\nTente deixar esse valor o mais baixo possivel.\n<b>é recomendado deixar no valor padrão.</b>
-[1] ABRIR/FECHAR PORTA\n[2] TRANCAR A PORTA*\n\n*Ao fechar a porta usa a habilidade especial. 
+[1] ABRIR/FECHAR PORTA\n[2] TRANCAR A PORTA*\n\n*Ao fechar a porta usa a habilidade especial.
 A PORTA FOI BLOQUEADO PELO SCP-079.
 Modo tela cheia.
 Tem certeza que deseja sair desse servidor?

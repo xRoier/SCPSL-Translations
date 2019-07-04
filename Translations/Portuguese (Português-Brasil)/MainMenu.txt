@@ -1,4 +1,4 @@
-﻿ENTRAR
+ENTRAR
 FECHAR
 RESOLUÇÃO DA SOMBRAS
 OPÇÕES
@@ -26,7 +26,7 @@ Modo de renderização leve:\nQuando ligado - deixa o jogo com graficos ruims. �
 V-SYNC
 CONECTAR
 GRÁFICOS
-Ao alterar as configurações de sombra, quanto menos sombra, melhor o desempenho do jogo. 
+Ao alterar as configurações de sombra, quanto menos sombra, melhor o desempenho do jogo.
 MENU PRINCIPAL
 MODO DE RENDERIZAÇÃO LEVE
 MOTION BLUR
