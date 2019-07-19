@@ -1,25 +1,27 @@
-
+﻿
 ## This list contains all translation authors and contributors.
 ## In the case of mis-credit, feel free to open an issue or contact the studio through any means.
+## Folders named after https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c language tags. Theese automatically display the correct language ingame
 
-Chinese(简体中文) by ShingekiNoRex
-Czech (Ceština) by ahyper & Krumpac
-Danish (Dansk) by Bemsen
-Dutch (Nederlands) by Lazyneer
-French (Français) by FranceSCP, lucasboss45 & Ganxly
-German (Deutsch) by DasDavid, Mr.Panda & Joseph
-Hungarian (magyar) by asderman
-Italian (Italiano) by Lycan
-Japanese(日本語) by PalZaxson
-Korean (한국어) by Dr-Devan & Arizen
-Norwegian (Norsk) by Tam
-Polish (Polski) by Multiverse Uncle
-Portuguese (Português) by Esquilo_Voador
-Portuguese (Português-Brasil) by Amanda
-Russian (Русский) by Welcome To Hell Project
-Slovak (Slovenčina) by Gejb
-Spanish (Español) by Anreol, Erick & ConnorTheCone
-Thai (ภาษาไทย) by AGKK Histoire & DatPanda
-Traditional Chinese (繁體中文) by X-EROS
-Turkish (Turkish) by Jhrino
-Ukrainian (Українська) by TRI99ER
+
+cs by ahyper & Krumpac
+da by Bemsen
+de by DasDavid, Mr.Panda & Joseph
+es by Anreol, Erick & ConnorTheCone
+fr by FranceSCP, lucasboss45 & Ganxly
+hu by asderman
+it by Lycan
+ja by PalZaxson
+ko by Dr-Devan & Arizen
+nb by Tam
+nl by Lazyneer
+pl by Multiverse Uncle
+pt by Esquilo_Voador
+pt-BR by Amanda
+ru by Welcome To Hell Project
+sk by Gejb
+th by AGKK Histoire & DatPanda
+tr by Jhrino
+uk by TRI99ER
+zh-Hans by ShingekiNoRex
+zh-Hant by X-EROS
