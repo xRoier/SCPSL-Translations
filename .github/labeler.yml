@@ -3,7 +3,7 @@ readme:
 steam-achievements:
  - Steam-Translations/Achievements/*
 steam-richpresence:
- - Steam-Translations/Rich%20Presence/*
+ - Steam-Translations/Rich Presence/*
 credits: 
  - Translations/credits.txt
 en: 
