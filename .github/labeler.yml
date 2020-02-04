@@ -4,6 +4,8 @@ steam-achievements:
  - Steam-Translations/Achievements/*
 steam-richpresence:
  - Steam-Translations/Rich Presence/*
+ingame: 
+ - Translations/**/*
 credits: 
  - Translations/credits.txt
 en: 
