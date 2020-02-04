@@ -42,7 +42,8 @@ ja:
  - Steam-Translations/**/*_japanese.vdf
 ko: 
  - Translations/ko/*
- - Steam-Translations/**/*_koreana.vdf
+ - Steam-Translations/Rich Presence/*_koreana.vdf
+ - Steam-Translations/Achievements/*_korean.vdf
 lv: 
  - Translations/lv/*
 nb: 
