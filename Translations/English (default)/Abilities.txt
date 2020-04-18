@@ -24,7 +24,7 @@ The Cure:Reanimates a recently killed human. Cured humans play as zombies with f
 Strike:Attacks a human and deals a moderate amount of damage to them.
 Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
 Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
-Lockdown:Starting at Access Level 3, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
+Lockdown:Starting at Access Level 2, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
 Virtually Indestructible: Five generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
 Neck Snap:Hold or click to snap a human's neck, instantly killing them as long as they can't see you or are blinking.
 Charge (Rage):Cut their escapes short - they deserve it. You bolt straight ahead, demolishing anything in front of you for a range. If you hit a heavy gate, you force yourself through it.
