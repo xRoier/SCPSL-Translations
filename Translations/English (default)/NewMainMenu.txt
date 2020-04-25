@@ -69,3 +69,5 @@ AUTHENTICATING
 Connecting to central servers...
 <color=green>Connection established</color>
 <color=red>Connection failure (Check console for details)</color>
+<color=red>Steam authentication failure (Check console for details)</color>
+<color=red>Discord authentication failure (Check console for details)</color>
