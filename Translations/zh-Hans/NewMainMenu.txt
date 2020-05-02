@@ -68,4 +68,9 @@ SCP-079 - 后处理
 认证中
 正在连接中心服务器....
 <color=green>连接已建立</color>
-<color=red>连接失败(请开启控制台检查具体原因)</color>
+<color=red>连接失败(请检查控制台查看具体原因)</color>
+<color=red>Steam 验证失败(请检查控制台查看具体原因)</color>
+<color=red>Discord 验证失败(请检查控制台查看具体原因)</color>
+关闭
+{0} 秒
+清理布娃娃(尸体)时间
