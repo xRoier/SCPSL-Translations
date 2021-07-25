@@ -6,8 +6,8 @@ Unarmed:You have nothing. Find something. Anything.
 Access Card:You have an access card, it's not the best but don't lose it.
 Standard Issue:You are equipped with a Rifle, Grenades, a Radio, a Disarmer and an Access Card.
 Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
-Startling Speed:When no humans can see you, you move very quickly. If you're being directly watched by a human, you can't move or attack, but all watching humans will simultaneously blink every few seconds, allowing you to act.
-Panic:You move more quickly as your health decreases.
+Breakneck Speeds:No matter where they hide, you will find them in little time, and they will see you for less. Double your movement speed and blink distance, at the cost of your lethality. Lasts until shortly after being witnessed, or cancelled manually.
+Blink:Once they lay eyes on you, make them regret breaking sight, even for a moment. When the eye turns crimson, hold and move the indicator to a desired location. Release to teleport and kill the nearest human within 2 meters.
 Sinkhole:You can place a black pool of corrosion and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
 Corrosion:You can move through doors by walking into them.
 Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
@@ -26,5 +26,6 @@ Open/Close Doors:You can interact with doors to open and close them for 5 AP. Yo
 Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
 Lockdown:Starting at Access Level 2, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
 Virtually Indestructible: Five generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
-Neck Snap:Hold or click to snap a human's neck, instantly killing them as long as they can't see you or are blinking.
+Reinforced Concrete:Accept their gazes of admiration, but stand your ground against their vandalism. You have built-in resistance to gunfire. Low-penetration weapons deal significantly less damage compared to piercing weaponry.
 Charge (Rage):Cut their escapes short - they deserve it. You bolt straight ahead, demolishing anything in front of you for a short distance. If you hit a heavy gate, you force yourself through it.
+Tantrum:Let them know your fury. Create a pool of filth underneath you that stains and greatly inhibits the mobility of humans who pass through it. Killing stained humans will recover some of your Hume Shield.
