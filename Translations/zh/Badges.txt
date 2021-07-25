@@ -16,7 +16,7 @@ Northwood工作室官方 员工
 Northwood工作室官方 Steam经理
 Northwood工作室官方 系统工程师
 Northwood工作室官方 维基百科经理
-SCP:SL官方 艺术总监
+SCP:SL官方 艺术经理
 SCP:SL官方 艺术监督
 SCP:SL官方 美工
 SCP:SL官方 后端程序员
@@ -44,6 +44,13 @@ SCP:SL官方 质量保证员
 SCP:SL官方 质量保证主管
 SCP:SL官方 Twitch 订阅者
 SCP:SL官方 音频经理
-Northwood工作室官方 反馈团队
+Northwood工作室官方 反馈协调员
 Northwood工作室官方 游戏审核主管
 SCP:SL 官方服务器主管
+Northwood工作室官方 反馈主管
+Northwood工作室官方 公关总监
+SCP:SL官方 艺术经理
+SCP:SL官方 动画设计师
+SCP:SL 助手
+SCP:SL官方 配音演员
+SCP:SL官方 基金投资人
