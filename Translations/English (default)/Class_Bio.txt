@@ -1,4 +1,4 @@
-SCP-173 can't move or attack when being watched. The Sculpture is a terror against unarmed classes or small groups, but should approach firefights with caution.
+SCP-173's horrific appearance commands attention. Becoming extremely deadly when it isn't being observed, the Sculpture demands a witness at all times.
 Expendable inmates used by the Foundation to test anomalies. Their primary goal is to escape the facility, evading <color=#F00>SCPs</color> and <color=#0096FF>MTF</color>.\n<color=#008F1E>Chaos Insurgency</color> assist them in escaping.
 You will respawn soon.\nIn the meantime enjoy watching everything go wrong.
 SCP-106 is a slow, hardy tank - an unstoppable force capable of easily bypassing any door in the facility.
