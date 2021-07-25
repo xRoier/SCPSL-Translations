@@ -30,7 +30,7 @@ V-Sync
 FPS Limit
 Off
 Texture Quality
-Max Blood Amount
+Decals
 Shadows
 Shadow Resolution
 Shadow Distance
@@ -86,4 +86,8 @@ RENT A SERVER
 CANCEL
 Second
 For playing our game!
+Flash Taskbar On Spawn
+Ambient Occlusion
+Volumetric Lights
+Bloom
 Flash Taskbar On Spawn
