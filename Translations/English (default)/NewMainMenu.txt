@@ -90,4 +90,3 @@ Flash Taskbar On Spawn
 Ambient Occlusion
 Volumetric Lights
 Bloom
-Flash Taskbar On Spawn
