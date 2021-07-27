@@ -4,7 +4,7 @@ Sneak:Your movements become silent, at the cost of a lot of speed.
 Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
 Unarmed:You have nothing. Find something. Anything.
 Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Rifle, Grenades, a Radio, a Disarmer and an Access Card.
+Standard Issue:You are equipped with a Rifle, Grenades, a Radio and an Access Card.
 Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
 Breakneck Speeds:No matter where they hide, you will find them in little time, and they will see you for less. Double your movement speed and blink distance, at the cost of your lethality. Lasts until shortly after being witnessed, or cancelled manually.
 Blink:Once they lay eyes on you, make them regret breaking sight, even for a moment. When the eye turns crimson, hold and move the indicator to a desired location. Release to teleport and kill the nearest human within 2 meters.
