@@ -13,3 +13,5 @@ Movement Speed
 Item Limits:
 Ammo Limits:
 {0} total
+Armor Penetration
+Running Accuracy
