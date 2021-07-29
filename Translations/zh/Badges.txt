@@ -1,4 +1,3 @@
-Northwood工作室官方 商务扩展经理
 Northwood工作室官方 首席执行官
 Northwood工作室官方 信息主管
 Northwood工作室官方 首席运营官
@@ -8,9 +7,6 @@ Northwood工作室官方 执行官助理
 Northwood工作室官方 反馈经理
 Northwood工作室官方 人力资源部
 Northwood工作室官方 人力资源部总监
-Northwood工作室官方 联合信息官
-Northwood工作室官方 首席机器人工程师
-Northwood工作室官方 营销部总监
 Northwood工作室官方 营销部平台经理
 Northwood工作室官方 员工
 Northwood工作室官方 Steam经理
@@ -33,7 +29,6 @@ SCP:SL官方 首席游戏逻辑程序员
 SCP:SL官方 游戏关卡设计师
 SCP:SL官方 合作伙伴
 SCP:SL官方 Patreon支持者
-SCP:SL官方 程序员
 SCP:SL官方 质量保证经理
 SCP:SL官方 音效师
 SCP:SL官方 游戏总监
@@ -49,8 +44,6 @@ Northwood工作室官方 游戏审核主管
 SCP:SL 官方服务器主管
 Northwood工作室官方 反馈主管
 Northwood工作室官方 公关总监
-SCP:SL官方 艺术经理
-SCP:SL官方 动画设计师
 SCP:SL 助手
 SCP:SL官方 配音演员
 SCP:SL官方 基金投资人

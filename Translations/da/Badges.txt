@@ -1,4 +1,3 @@
-Northwood Forretningsudviklingschef
 Northwood Administrerende Direktør
 Northwood Informationschef
 Northwood Driftsdirektør
@@ -8,9 +7,6 @@ Northwood Executive Assistent
 Northwood Feedback Manager
 Northwood HR-afdeling
 Northwood HR-afdelings Direktør
-Northwood Informationsmedarbejder
-Northwood Førende Botudvikler
-Northwood Marketingsdirektør
 Northwood Marketingplatform Manager
 Northwood Personale
 Northwood Steam Manager
@@ -33,7 +29,6 @@ SCP:SL Førende Gameplay Programmør
 SCP:SL Level Designer
 SCP:SL Partner
 SCP:SL Patreon Medlem
-SCP:SL Programmør
 SCP:SL Kvalitetssikringschef
 SCP:SL Lyddesigner
 SCP:SL Spildirektør

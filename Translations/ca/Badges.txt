@@ -1,4 +1,3 @@
-Northwood Director de Desenvolupament de Negocis
 Northwood Director Executiu
 Northwood Director d'Informació
 Northwood Director d'Operacions
@@ -8,9 +7,6 @@ Northwood Assistent executiu
 Northwood Gestor de Comentaris
 Northwood Recursos Humans
 Northwood Director de Recursos Humans
-Northwood Oficial Adjunt d'Informació
-Northwood Director Enginyer de Bot
-Northwood Director de Màrqueting
 Northwood Gestor de la Plataforma de Màrqueting
 Northwood Personal
 Northwood Gestor del Personal
@@ -33,7 +29,6 @@ SCP:SL Cap de Programadors del Joc
 SCP:SL Dissenyador de Nivells
 SCP:SL Patrocinador
 SCP:SL Ajudant de Patreon
-SCP:SL Programador
 SCP:SL Control de Qualitat i Seguretat
 SCP:SL Dissenyador de Sons
 SCP:SL Director del Joc

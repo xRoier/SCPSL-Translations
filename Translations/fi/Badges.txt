@@ -1,4 +1,3 @@
-Northwood Liiketoiminnan Kehitysjohtaja
 Northwood Toimitusjohtaja
 Northwood Tietohallintojohtaja
 Northwood Operatiivijohtaja
@@ -8,9 +7,6 @@ Northwood Johdon Assistentti
 Northwood Palautepäällikkö
 Northwood Henkilöstöhallinto
 Northwood Henkilöstöhallinnonjohtaja
-Northwood Varatietohallintojohtaja
-Northwood Johtava Bottikehittäjä
-Northwood Markkinointijohtaja
 Northwood Markkinointialustanjohtaja
 Northwood Henkilökunta
 Northwood Steamjohtaja
@@ -33,7 +29,6 @@ SCP:SL Johtava Peliohjelmoija
 SCP:SL Tasosuunnittelija
 SCP:SL Partneri
 SCP:SL Patreon Tukija
-SCP:SL Ohjelmoija
 SCP:SL Laadunvarmistusjohtaja
 SCP:SL Äänisuunnittelija
 SCP:SL Peliohjaaja

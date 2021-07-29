@@ -1,4 +1,3 @@
-Kierownik Rozwoju Rynkowego Northwood
 Dyrektor Generalny SCP:SL
 Dyrektor Bezpieczeństwa Northwood
 Dyrektor ds. Operacyjnych Northwood
@@ -8,9 +7,6 @@ Asystent Wykonawczy Northwood
 Kierownik Opinii Publicznej Northwood
 Pracownik Działu Kadr Northwood
 Dyrektor Działu Kadr Northwood
-Asystent dyr. Bezpieczeństwa Northwood
-Główny Technik Botów Northwood
-Dyrektor Marketingu Northwood
 Kierownik Marketingu Northwood
 Personel Northwood
 Kierownik Platformy Steam Northwood
@@ -33,7 +29,6 @@ Główny Programista Rozgrywki SCP:SL
 Projektant Poziomów SCP:SL
 Partner SCP:SL
 Wspierający SCP:SL na Patreon
-Programista SCP:SL
 Kierownik Kontroli Jakości SCP:SL
 Projektant Dźwięku SCP:SL
 Główny Dyrektor Rozwoju SCP:SL

@@ -1,4 +1,3 @@
-Northwood Business Development Manager
 Northwood Chief Executive Officer
 Northwood Chief Information Officer
 Northwood Chief Operations Officer
@@ -8,9 +7,6 @@ Northwood Executive Assistant
 Northwood Feedback Manager
 Northwood Human Resources
 Northwood Human Resources Director
-Northwood Joint Information Officer
-Northwood Lead Bot Engineer
-Northwood Marketing Director
 Northwood Marketing Platform Manager
 Northwood Staff
 Northwood Steam Manager
@@ -33,7 +29,6 @@ SCP:SL Lead Gameplay Programmer
 SCP:SL Level Designer
 SCP:SL Partner
 SCP:SL Patreon Supporter
-SCP:SL Programmer
 SCP:SL Quality Assurance Manager
 SCP:SL Sound Designer
 SCP:SL Game Director

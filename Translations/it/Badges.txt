@@ -1,4 +1,3 @@
-Northwood Responsabile dello Sviluppo Aziendale
 Northwood Amministratore Delegato
 Northwood Chief Information Officer
 Northwood Direttore Operativo
@@ -8,14 +7,11 @@ Northwood Assistente Esecutivo
 Northwood Responsabile dei Feedback
 Northwood Risorse Umane
 Northwood Direttore Risorse Umane
-Northwood Joint Information Officer
-Northwood Lead Bot Engineer
-Northwood Direttore del marketing
 Northwood Marketing Platform Manager
 Northwood Staff
 Northwood Manager di steam
 Northwood Amministratore di Sistema
-Northwood Wiki Manager
+Northwood Manager della Wiki
 SCP:SL Direttore Artistico
 SCP:SL Supervisore Artistico
 SCP:SL Artista
@@ -33,7 +29,6 @@ SCP:SL Lead Gameplay Programmer
 SCP:SL Level Designer
 SCP:SL Partner
 SCP:SL Patreon Supporter
-SCP:SL Programmatore
 SCP:SL Responsabile Controllo Qualità
 SCP:SL Designer del suono
 SCP:SL Direttore dello sviluppo di gioco
@@ -50,13 +45,10 @@ SCP:SL Supervisore del Server Ufficiale
 Northwood Supervisore del Feedback
 Northwood Manager delle Verificazioni
 Northwood Bot Manager
-Northwood Manager della Wiki
 Northwood Manager delle Traduzioni
 SCP:SL Game Design Manager
 SCP:SL Animatore
 Northwood Direttore delle pubbliche relazioni
-SCP:SL Direttore Artistico
-SCP:SL Animatore
 SCP:SL Helper
 SCP:SL Doppiatore
 SCP:SL Investitore della Fondazione

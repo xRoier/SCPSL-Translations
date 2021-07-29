@@ -1,4 +1,3 @@
-Northwood Gerente de Desenvolvimento de Negócios
 Northwood Diretor Executivo
 Northwood Diretor de Informações
 Northwood Diretor de Operações
@@ -8,9 +7,6 @@ Northwood Assistente Executivo
 Northwood Gerenciador de Feedback
 Northwood Recursos Humanos
 Northwood Diretor do Recursos Humanos
-Northwood Executivo de Informação
-Northwood Engenheiro Chefe de Bot
-Northwood Diretor de marketing
 Northwood Gerente de Plataforma de Marketing
 Northwood Funcionarios
 Northwood Administrador do Grupo Steam
@@ -33,7 +29,6 @@ SCP:SL Programador Chefe de Gameplay
 SCP:SL Designer de Nível
 SCP:SL Parceiros
 SCP:SL Colaboradores do Patreon
-SCP:SL Programador
 SCP:SL Gerente de Qualidade
 SCP:SL Designer de Som
 SCP:SL Diretor do Jogo

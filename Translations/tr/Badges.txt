@@ -1,4 +1,3 @@
-Northwood İş Geliştirme Müdürü
 Northwood İcra Kurulu Başkanı
 Northwood Bilgi Yönetim Şefi
 Northwood Operasyon Şefi
@@ -8,14 +7,11 @@ Northwood Yönetici Asistanı
 Northwood Geribildirim Yöneticisi
 Northwood İnsan Kaynakları
 Northwood İnsan Kaynakları Müdürü
-Northwood Ortak Bilgi Şef Yardımcısı
-Northwood Lead Bot Mühendisi
-Northwood Pazarlama Müdürü
 Northwood Pazarlama Platformu Yöneticisi
 Northwood Personel
 Northwood Steam Yöneticisi
 Northwood Sistem Yöneticisi
-Northwood Wiki Yöneticisi
+Northwood Wiki Müdürü
 SCP:SL Sanat Müdürü
 SCP:SL Sanat Gözetmeni
 SCP:SL Sanatçı
@@ -33,7 +29,6 @@ SCP:SL Baş Oynanış Programcısı
 SCP:SL Harita Tasarımcısı
 SCP:SL Partner
 SCP:SL Patreon Destekçisi
-SCP:SL Programcı
 SCP:SL Kalite Güvence Müdürü
 SCP:SL Ses Tasarımcısı
 SCP:SL Oyun Müdürü
@@ -50,13 +45,10 @@ SCP:SL Resmi Sunucu Gözetmeni
 Northwood Geribildirim Gözetmeni
 Northwood Doğrulama Müdürü
 Northwood Bot Müdürü
-Northwood Wiki Müdürü
 Northwood Çeviri Müdürü
 SCP:SL Oyun Tasarım Müdürü
 SCP:SL Animatör
 Northwood Halkla İlişkiler Direktörü
-SCP:SL Sanat Müdürü
-SCP:SL Animatör
 SCP:SL Yardımcı
 SCP:SL Ses Sanatçısı
 SCP:SL Vakıf Yatırımcısı

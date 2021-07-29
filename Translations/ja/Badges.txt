@@ -1,4 +1,3 @@
-Northwood ビジネス開発マネージャー
 Northwood 最高経営責任者
 Northwood 最高情報責任者
 Northwood 最高執行責任者
@@ -8,9 +7,6 @@ Northwood 役員補佐
 Northwood フィードバックマネージャー
 Northwood 人事
 Northwood 人事ディレクター
-Northwood 共同情報責任者
-Northwood BOT開発者主任
-Northwood マーケティングディレクター
 Northwood マーケティングプラットフォームマネージャー
 Northwood スタッフ
 Northwood Steamマネージャー
@@ -33,7 +29,6 @@ SCP:SL ゲームプレイプログラマ主任
 SCP:SL レベルデザイナー
 SCP:SL パートナー
 SCP:SL Patreonサポーター
-SCP:SL プログラマー
 SCP:SL 品質保証マネージャー
 SCP:SL サウンドデザイナー
 SCP:SL ゲームディレクター

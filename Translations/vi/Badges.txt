@@ -1,4 +1,3 @@
-Giám đốc phát triển kinh doanh Northwood
 Giám đốc điều hành Northwood
 Giám đốc thông tin Northwood
 Giám đốc điều hành Northwood
@@ -8,9 +7,6 @@ Trợ lý điều hành Northwood
 Giám đốc CSKH Northwood
 Nhân lực Northwood
 Quản lý nhân lực Northwood
-Quản lý thông tin chung Northwood
-Kỹ sư Bot Northwood
-Quản lý Marketing Northwood
 Giám đốc nền tảng Marketing Northwood
 Nhân viên Northwood
 Quản lý Steam Northwood
@@ -33,7 +29,6 @@ Trưởng lập trình gameplay SCP:SL
 Thiết kế màn chơi SCP:SL
 Đối tác SCP:SL
 Hỗ trợ Patreon SCP:SL
-Lập trình viên SCP:SL
 Quản lý chất lượng SCP:SL
 Thiết kế âm thanh SCP:SL
 Giám đốc game SCP:SL
