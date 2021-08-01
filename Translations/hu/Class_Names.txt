@@ -2,17 +2,20 @@ SCP-173
 D-osztályú személyzet
 Szemlélődő
 SCP-106
-Nine-Tailed Fox Tudós
+Nine-Tailed Fox Specialista
 SCP-049
 Tudós
 SCP-079
-Chaos Insurgency
+Chaos Insurgency Besorozott
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Hadnagy
+Nine-Tailed Fox Őrmester
 Nine-Tailed Fox Parancsnok
-Nine-Tailed Fox Kadét
+Nine-Tailed Fox Közlegény
 Tutorial
 Létesítmény őr
 SCP-939-53
 SCP-939-89
+Chaos Insurgency Karabélyos
+Chaos Insurgency Elnyomó
+Chaos Insurgency Martalóc

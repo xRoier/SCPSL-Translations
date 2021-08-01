@@ -35,3 +35,4 @@
 <size=80>SZÉTKAPCSOLVA</size>\nA szerver biztonsági hitelesítése sikertelen.
 <size=80>SZÉTKAPCSOLVA</size>\nA szerver biztonsági hitelesítése túl lassú volt a szerverhez.\nKérlek próbáld újra, vagy keress fel egy szerver adminisztrátort.
 <size=80>HITELESÍTÉSI HIBA</size>\nKözponti szerver üzenet: [message].
+<size=80>SZÉTKAPCSOLVA</size>\nA szerver leáll.

@@ -1,0 +1,37 @@
+0~Gondnok Kulcskártya
+1~Tudós Kulcskártya
+2~Kutatási Felügyelő Kulcskártya
+3~Zónakezelő Kulcskártya
+4~Őr Kulcskártya
+5~MTF Közlegény Kulcskártya
+6~"Containment" Mérnök Kulcskártya
+7~MTF Őrmester Kulcskártya
+8~MTF Parancsnok Kulcskártya
+9~Létesítménykezelő Kulcskártya
+10~Chaos Insurgency Hozzáférési Eszköz
+11~O5-szintű Kulcskártya
+12~Rádió
+13~COM-15
+14~Elsősegélycsomag~Gyógyítja a sérüléseket.
+15~Zseblámpa~S lőn világosság!
+16~Micro H.I.D.~Mobilis, nagy intenzitású elektoromos kisülés szóró.
+17~SCP-500~A csodaszer.
+18~SCP-207~Ártalmasan fejleszti a motoros készségeket.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Repeszgránát~Boom!
+26~Villanógránát~Megvakítja az ellenfeleket.
+30~COM-18
+31~SCP-018~Egy szuperlabda, ami képes extrém hatékonysággal pattogni.
+32~SCP-268~Viselése ideiglenesen láthatatlanná tesz, mindaddig amíg bármilyen emberi cselekedettel félbe nem szakítod.
+33~Adrenaline~Ideiglenesen növeli az állóképességet.
+34~Painkillers~Enyhíti a kisebb sérüléseket.
+35~Coin~Nem érted, hogy ezt mégis miért cipeled ezt magaddal...
+36~Könnyű Páncél
+37~Harci Páncél
+38~Nehéz Páncél
+39~.44 Revolver
+40~AK
+41~Sörétes

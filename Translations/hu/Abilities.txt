@@ -7,7 +7,7 @@ Hozzáférési kártya:Van egy ilyen kártyád, nem a legjobb, de ne veszítsd e
 Alapértelmezett helyzet:Fel vagy szerelve egy fegyverrel, Gránátokkal, egy Rádióval, egy Lefegyverzővel és egy kártáyával.
 Felfegyverzett & Veszélyes:Fel vagy szerelve egy Golyószóróval, egy Feltörő Eszközzel (hozzáférési kártya), és egy Elsősegély-dobozzal.
 Ijesztő sebesség:Amikor egy ember sem néz rád, nagyon gyorsan mozogsz. Ha egy ember közvetlen rádnéz, nem tudsz se mozogni, se támadni. Az összes ember aki rád néz egyszerre fog pislogni, ezáltal tudsz mozogni, illetve támadni.
-Pánik:Gyorsabban mozogsz ahogy a HP-d csökken.
+Pislantás:Amint rád pillantanak, juttasd eszükbe, hogy minden olyan pillanat, amikor nem néznek, azt megbánják. Amikor a szemed vörösre vált, tartsd lenyomva az egeret, és mozgasd az indikátort a kívánt helyre. Engedd el a teleportáláshoz, ezzel megölve a legközelebbi embert 2 méteres távolságon belül.
 Víznyelő:Egy víznyelőt helyezhetsz a földre, ahová bármikor visszateleportálhatsz. A teleportálás néhány másodpercet vesz igénybe.\nÚjbóli gombnyomásra a régi eltűnik és egy új víznyelő keletkezik.
 Korrózió:Át tudsz sétálni az ajtókon ha nekik mész.
 Hattyúdal:A lövedékek szinte meg sem tudnak sebezni, de azonnal elzárhatnak a kamrádban, ha egy ember feláldozza magát.
@@ -26,5 +26,6 @@ Ajtók nyitása/csukása:Kinyithatod és becsukhatod az ajtókat 5 AP-ért. Be i
 Tesla Túltöltés:Aktiválhatod a Tesla Kaput 50 AP-ért, ezáltal likvidálva az összes játékost a közelében.
 Lezárás:A 2-es Hozzáférési Szinttől egyszerre operálhatod bizonyos szobák ajtajait és világításait. Miközben ez aktiválva van, a szobában lévő emberek nem látják SCP-173-at.
 Virtuálisan elpusztíthatatlan:Öt generátor van a Heavy Containment zónában. Ha az összeset kinyitják és beaktiválják, újra elzárnak téged. A generátoroknak van egy visszaszámlálási folyamata amit minden játékos felfüggeszthet, ha megnyomják rajta a "CANCEL" gombot.
-Nyaktörés:Tartsd lenyomva/nyomd meg az LMB-t, egyből megölve az embereket, akik nem látnak téged vagy pislognak.
+Vasbeton:Élvezd csodálatuk tekintetét, de egyben állj helyet a vandalizmusukkal szemben. Beépített ellenállással rendelkezel a lőfegyverek ellen. Az alacsony átütéssel rendelkező fegyverek lényegesen kisebb kárt okoznak, mint a nagy átütő erővel rendelkezők.
 Előre! (Tombolás):Vágd le a menekülési útvonalukat - mert megérdemlik. Akár egy nyíl előretörsz, elpusztítva mindent, ami az utadba áll. Ha egy kapuba ütközöl, az sem akadály.
+Szeszély:Tudasd velük a dühödet. Létrehozhatsz magad alatt egy tócsát mindenféle mocsokból, amely nagymértékben lassítja az azon áthaladó emberek mobilitását. A lelassított emberek meggyilkolása visszatölti a mesterséges életerőd egy töredékét.

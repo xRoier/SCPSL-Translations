@@ -1,4 +1,4 @@
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.<color=#ffff00>\nTartsd lenyomva a bal egérgombot+W-t és célozz az ellenségre hogy megöld.\nMinél kevesebb HP-d van, annál gyorsabb vagy.</color>
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.<color=#ffff00>\nTartsd lenyomva a célzás gombját a pislogáshoz.\nEllenállsz a lőfegyverek okozta sérülések egy részének, valamint regenerálódó pajzzsal rendelkezel.</color>
 Menekülj el a létesítményből.\nMűködj együtt a <color=#008f1e>Chaos Insurgency</color>-vel.\nKerüld a többi csapatot.
 Hamarosan újraéledsz.
 Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.<color=#ffff00>\nÁt tudsz sétálni az ajtókon.\nBal egérgomb sebzi, és elteleportálja a célpontokat a dimenziódba.\nTartsd lenyomva a TAB-ot hogy előhozd a TP menüt.</color>

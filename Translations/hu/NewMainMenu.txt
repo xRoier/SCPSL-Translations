@@ -86,3 +86,7 @@ SZERVER BÉRLÉSE
 VISSZA
 Másodperc
 Hogy a játékunkkal játszol!
+Tálca villogása újraéledéskor
+Környezeti Elzáródás
+Volumetrikus Fények
+Bloom
