@@ -30,7 +30,7 @@ V-Sync
 จำกัดค่า FPS
 ปิด
 คุณภาพวัตถุ
-จำนวนเลือดมากสุด
+Decals
 เงา
 คุณภาพเงา
 ระยะห่างของเงาที่เห็น
@@ -86,3 +86,7 @@ SCP-079 - Post-Processing
 ยกเลิก
 วินาที
 ที่เล่นเกมของเรา !
+Flash Taskbar ตอนเกิด
+Ambient Occlusion
+Volumetric Lights
+Bloom

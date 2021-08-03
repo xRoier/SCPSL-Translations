@@ -2,17 +2,20 @@ SCP-173
 คลาส-ดี
 ผู้สังเกตการณ์
 SCP-106
-นักวิจัยหน่วย NTF
+ผู้เชี่ยวชาญหน่วย NTF
 SCP-049
 นักวิจัย
 SCP-079
-Chaos Insurgency
+Chaos Insurgency Conscript
 SCP-096
 SCP-049-2
-ลูแทนแนนท์หน่วย NTF
-คอมแมนเดอร์หน่วย NTF
-คาเดทหน่วย NTF
+สิบเอกหน่วย NTF
+ร้อยเอกหน่วย NTF
+พลทหารหน่วย NTF
 Tutorial
-เจ้าหน้าที่รักษาความปลอดภัย
+หน่วยรักษาความปลอดภัย
 SCP-939-53
 SCP-939-89
+Chaos Insurgency Rifleman
+Chaos Insurgency Repressor
+Chaos Insurgency Marauder
