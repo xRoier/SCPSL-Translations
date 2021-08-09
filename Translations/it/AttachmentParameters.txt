@@ -1,0 +1,19 @@
+Ingrandimento dell'ADS
+---
+Danno
+Penetrazione
+Rateo di fuoco
+Rinculo
+Rinculo quando si mira
+Precisione del proiettile
+Hip-firing accuracy
+Precisione di mira
+Velocità di equipaggio
+Rumorosità da sparo
+Capacità del caricatore
+Tempo di equipaggio
+Tempo di ricarica
+---
+Velocità di mira
+Diffusione delle pallottole
+Coerenza del modello

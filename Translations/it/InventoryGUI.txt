@@ -13,3 +13,5 @@ Velocità
 Limite degli oggetti:
 Limite delle munizioni:
 {0} complessivamente
+Penetrazione dell'Armatura
+Precisione

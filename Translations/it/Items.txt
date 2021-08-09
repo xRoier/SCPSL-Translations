@@ -8,7 +8,7 @@
 7~Scheda Magnetica del Sergente Nine-Tailed Fox
 8~Scheda Magnetica del Capitano Nine-Tailed Fox
 9~Scheda Magnetica del Responsabile della Struttura
-10~Dispositivo di accesso del Chaos Insurgency
+10~Dispositivo di accesso della Chaos Insurgency
 11~Scheda Magnetica Livello-O5
 12~Radio
 13~COM-15

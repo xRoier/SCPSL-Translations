@@ -1,27 +1,27 @@
 VOLUME VOCE
 Ok
 FORZA L'AVVIO
-RICONTENIMENTO 106\nPROCEDURA DI OVERRIDE
+PROCEDURA DI RICONTENIMENTO PER SCP-106
 Inverti asse-Y
 RIEPILOGO PARTITA
 Annulla
 I N V E N T A R I O
-LUMINOSITA'
+LUMINOSITÀ
 OPZIONI
 DISCONNETTITI
-LA TESTATA NUCLEARE E' DISABILITATA
+LA TESTATA NUCLEARE È DISABILITATA
 ACCESSO NEGATO
 CHAT VOCALE
 INVENTARIO PIENO
-SENSIBILITA' MOUSE
+SENSIBILITÀ MOUSE
 HACKERANDO
 RACCOGLIENDO...
-Aumentare la luminosita' <b>rovina considerevolmente l'atmosfera </b>del gioco.\nProva a settare questo valore il piu' basso possibile.\n<b>Sarebbe consigliabile lasciare il valore predefinito.</b>
-[1] APRI/CHIUDI PORTA\n[2] BLOCCA PORTA*\n\n*Bloccare la porta utilizza l'abilita' speciale
-LA PORTA E' STATA BLOCCATA DAL SCP-079
+Aumentare la luminosità <b>rovina considerevolmente l'atmosfera </b>del gioco.\nProva a settare questo valore il più basso possibile.\n<b>Sarebbe consigliabile lasciare il valore predefinito.</b>
+[1] APRI/CHIUDI PORTA\n[2] BLOCCA PORTA*\n\n*Bloccare la porta utilizza l'abilità speciale
+LA PORTA È STATA BLOCCATA DA SCP-079
 Schermo intero
 Sei sicuro di voler abbandonare il server?
-Opzioni base. Troverai piu' impostazioni nel menu principale.
+Opzioni base. Troverai più impostazioni nel menu principale.
 IN ATTESA DI GIOCATORI
 RIEPILOGO PARTITA
 CONTINUA
@@ -30,11 +30,11 @@ connessi
 Sei fuggito come Scienziato e ti sei unito alle forze Nine-Tailed Fox.
 Sei fuggito come Classe-D e ti sei unito alla Chaos Insurgency.
 RUOLO:
-Tempo di fuga: [escape_minutes] minuti [escape_seconds] secondi
+Tempo di fuga: [escape_minutes] minuti e [escape_seconds] secondi
 Attendi [time] prima di usare [item] di nuovo.
-TIENI PREMUTO <color=white><b>F1</b></color> PER MAGGIORI INFO
-Sei stato ammanettato\n<size=40>segui gli ordini o chiedi aiuto ai tuoi compagni di squadra</size>
+TIENI PREMUTO <color=white><b>F1</b></color> PER MAGGIORI INFORMAZIONI
+Sei stato ammanettato\n<size=40>segui gli ordini o chiedi aiuto ai tuoi compagni di squadra.</size>
 Eri stato catturato dalle forze Nine-Tailed Fox.\nCon una minaccia in meno nella facility, hanno potuto ottenere rinforzi.
-Eri stato catturato come Scienziato dai Chaos Insurgency.\nLoro possono avvantaggiarsi delle tue informazioni per trarne vantaggio.
-IL ROUND INIZIERA' TRA: <color=yellow>{0}</color> SECONDI.
-IL ROUND E' IN <color=#FF5050>PAUSA</color>
+Eri stato catturato come Scienziato dalla Chaos Insurgency.\nLoro possono avvantaggiarsi delle tue informazioni per trarne vantaggio.
+IL ROUND INIZIERÀ TRA: <color=yellow>{0}</color> SECONDI.
+IL ROUND È IN <color=#FF5050>PAUSA</color>

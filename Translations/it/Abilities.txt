@@ -20,11 +20,12 @@ Predatore:I tuoi passi sono silenziosi. Tenere premuto il tasto assegnato allo s
 Imitazione:Puoi parlare a qualsiasi giocatore nelle vicinance, umani inclusi.
 Morso:Attacca un essere umano a distanza ravvicinata, infliggendogli istantaneamente gravi danni.
 Antidoto:Tocca un essere umano a distanza ravvicinata, uccidendolo all'istante.
-La Cura:Rianima un essere umano morto di recente. Gli umani guariti diventano zombi, i quali sono molto veloci e hanno poca salute.\n Non c'è alcun limite al numero di umani che possono essere curati.
+La Cura:Rianima un essere umano morto di recente. Gli umani guariti diventeranno SCP-049-2 (Zombie), i quali saranno molto veloci e avranno poca salute (300HP).\nNon c'è alcun limite al numero di umani che potrai curare.
 Colpo:Attacca un umano e infliggi una moderata quantità di danni.
-Apri/Chiudi Porta:Puoi interagire con le porte aprendole e chiudendole per 5 EA; Le puoi bloccare consumando i tuoi AP impedendo l'apertura fino a quando non le sblocchi o finisci l'EA.
-Sovraccarico della Tesla:Puoi attivare istantaneamente una Tesla per 50 EA uccidendo qualsiasi giocare all'interno o nei suoi pressi!
-Blocco:A partire dal livello 2 puoi interagire con alcune stanze bloccandole, spegnendo le luci e chiudendo tutte le porte. Durante il processo di blocco, gli esseri umani non possono stabilire un contatto visivo con SCP-173.
-Virtualmente Indistruttibile: Cinque generatori si generano nella Zona di Contenimento Pesante. Se tutti i generatori vengono sbloccati e attivati, verrai ricontenuto.\nI generatori hanno una sequenza di conto alla rovescia che qualsiasi giocatore può interrompere premendo il pulsante "CANCEL" sul generatore.
-Rottura del Collo:Tieni premuto o fai clic per spezzare il collo ad un essere umano, uccidendolo all'istante, fintanto che non possano vederti o battono le ciglia.
-Carica (Rabbia):Rendi le loro fughe brevi - se lo meritano. Ti precipiti dritto, demolendo qualsiasi cosa di fronte a te. Se colpisci un Gate, ti aprirai la strada attraverso esso.
+Apri/Chiudi Porta:Puoi interagire con le porte aprendole e chiudendole per 5 EA; Le potrai bloccare consumando i tuoi AP impedendo l'apertura fino a quando non le sblocchi o finirai l'EA.
+Sovraccarico delle Tesla:Puoi attivare istantaneamente un Tesla per 50 EA uccidendo qualsiasi giocare all'interno o nei suoi pressi.
+Blocco:A partire dal livello 2 potrai interagire con alcune stanze bloccandole, spegnendo le luci e bloccando tutte le porte. Durante il processo di blocco, gli esseri umani non potranno vedere l'SCP-173, Gli altri SCP potranno aprire le tue porte bloccate.
+Virtualmente Indistruttibile: Cinque generatori si generano nella Zona di Contenimento Pesante (HCZ). Se tutti i generatori verrano sbloccati e attivati, verrai ricontenuto dopo 60 secondi.\nI generatori hanno una sequenza di conto alla rovescia che qualsiasi giocatore può interrompere premendo il pulsante "CANCEL" sul generatore, anche gli SCP.
+Rottura del Collo:Tieni premuto o fai clic per spezzare il collo ad un essere umano, uccidendolo instantaneamente, fintanto che non possano vederti o battono le ciglia.
+Carica (Rabbia):Rendi le loro fughe brevi - se lo meritano. Ti precipiti dritto, demolendo qualsiasi cosa di fronte a te. Se colpisci un gate, ti aprirai la strada attraverso esso.
+Tantrum: Fategli conoscere la vostra furia. Create una pozza di sporcizia sotto di voi che macchia e inibisce notevolmente la mobilità degli esseri umani che passano attraverso di essa. Uccidere umani macchiati recupererà un po' del tuo scudo.
