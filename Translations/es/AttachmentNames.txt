@@ -41,3 +41,4 @@ Armazón de tirador~ Armazón completo de tirador, aumenta la precisión y la po
 Cañón corto~Versión reducida del cañón estándar, se usa para mejorar la movilidad y la velocidad de desenfundado.
 Obturador de cañón~Aumenta la dispersión de los proyectiles.
 Cañón ampliado~Reduce considerablemente la dispersión pero aumenta el peso y la longitud
+Sin culata~Configuración CQB con gran movilidad, eliminar la culata de un rifle puede hacer que sea imposible de controlar al usar la mira.
