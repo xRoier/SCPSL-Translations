@@ -11,7 +11,7 @@ Amigos
 Procurar Servidores
 Criar Servidor
 Reconectar
-Conexão direta
+Conexão Direta
 Recarregar
 Esconder Servidores Vazios
 Esconder Servidores Cheios
@@ -21,36 +21,36 @@ Audio
 Controles
 Gameplay
 Outros
-Modo Janela
-Tela cheia
-Janela sem Borda
+Modo da Janela
+Tela Cheia Exclusiva
+Janela Sem Bordas
 Janela Maximizada
 Janela
-V-Sync
+Sincronização Vertical
 Limite de FPS
 Desligado
 Qualidade da Textura
-Quantidade maxima de Sangue
+Decals
 Sombras
 Qualidade da Sombra
-Distancia da Sombra
-Motion Blur
-Correção de cores
-Anti Aliasing
-Modo de Renderização de Luz
+Distância da Sombra
+Desfoque de Movimento
+Correção de Cores
+Antisserrilhamento
+Renderizar Luzes
 Volume Principal
 Efeitos Sonoros
 Chat de Voz
-Volume do Menu
+Música do Menu
 Volume da Interface
-Musica do Menu
+Tema do Menu
 Intro Desaparecer Rapidamente
 Balanço da Cabeça
-Ativar "Sprint"
-Exibir Numero de Vida Exato
+Correr Alternado
+Exibir HP Exato
 Presença na Comunidade
-Lobby Publico
-Ativar "Search"
+Lobby Público
+Pesquisar Alternado
 SCP-079 - Modo alternativo
 SCP-079 - Pós-Processamento
 Idioma
@@ -60,22 +60,33 @@ Voltar
 Essa alteração exige recarregar o menu.\nRecarregar o menu agora?
 Sim
 Não
-Você tem certeza que quer sair?
-Resolução da tela
+Você tem certeza que deseja sair?
+Resolução da Tela
 Esconder IP
 Bem vindo de volta, {username}!
 Creditos
 AUTENTICANDO
-Conectando-se a os servidores centrais...
+Conectando-se aos servidores centrais...
 <color=green>Conexão estabelecida</color>
 <color=red>Falha na conexão (Verifique o console para obter detalhes)</color>
 <color=red>Falha na autenticação da Steam (Verifique o console para obter detalhes)</color>
 <color=red>Falha na autenticação do Discord (Verifique o console para obter detalhes)</color>
 Desativado
-{0} Segundo(s)
-Tempo de limpeza de Ragdoll
-Mostrar perfil da steam
-Permite que jogadores vejam o seu perfil na steam clicando no icone na lista de jogadores.
+Segundo(s)
+Tempo de Limpeza de Ragdoll
+Mostrar Perfil da Steam
+Permite que jogadores vejam o seu perfil da Steam clicando no icone na lista de jogadores.
 Do Not Track (DNT)
 Proibe que o servidor utilize os seus dados (endereço IP, ID de usuário, etc.) em propósitos não relacionados à segurança do servidor.
-Graficos API
+API Gráfica
+Criar servidores diretamente pelo jogo não é mais suportado.\nExistem atualmente 3 maneiras de criar um servidor de SCP:SL:\n- Você pode baixar o SCP:SL Dedicated Server (Steam AppID: 996560) e executá-lo no seu computador\n- Você pode comprar uma VPS ou um Servidor Dedicado de um provedor de hospedagem e executar o SCP:SL Dedicated Server lá\n- Você pode comprar um servidor SCP:SL de uma hosting de server que fornece suporte para SCP:SL (ex.: ZAP Hosting)\nClique nos links abaixo para ter mais informações. Você pode pedir para o nosso suporte técnico\n (link para o nosso servidor Discord pode ser encontrado no menu principal) para assistência.
+FORÇAR CRIAÇÃO
+LEIA MAIS
+COMPRAR SERVIDOR
+CANCELAR
+Segundo(s)
+Por jogar o nosso jogo!
+Piscar Hotbar ao Spawnar
+Oclusão de Ambiente
+Luzes Volumétricas
+Bloom

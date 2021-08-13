@@ -1,34 +1,34 @@
 ENTRAR
 FECHAR
-RESOLUÇÃO DA SOMBRAS
+RESOLUÇÃO DAS SOMBRAS
 OPÇÕES
 BASEADO EM <i>SCP: CONTAINMENT BREACH</i>
 VOLTAR
 IDIOMA
-ANTI-SERRILHAMENTO
-TROCAR DETALHES:\nPixels de luz - Número máximo de fontes de luz em cada pixel.\nS. Vertical - Ativa a sincronização com a taxa de atualização do monitor.
+ANTISSERRILHAMENTO
+Trocar detalhes:\nQUANTIDADE DE PIXELS DEE LUZ - Número máximo de fontes de luz renderizadas em cada pixel.\nS. Sincronização Vertical - Ativa a sincronização com a taxa de atualização do monitor.
 ENTRAR NO JOGO
 PÓS\nPROCESSAMENTO
 CRÉDITOS
 SAIR DO JOGO
 Modo Tela cheia
-RESOLUÇÃO
+CONFIGURAÇÕES DE TELA
 CORREÇÃO DE COR
-Digite o endereço IP ...
+Digite o Endereço IP...
 RESOLUÇÃO
 JOGAR
-PIXELS DE LUZ
-SOMBRA
-SOMBRA
+QUANTIDADE DE PIXELS DE LUZ
+TIPO DE SOMBRA
+SOMBRAS
 CRIAR JOGO
 Alterar configurações de pós-processamento: \nEssas alterações não afetam o desempenho. É recomendado deixar os valores no padrão.
-Modo de renderização leve:\nQuando ligado - deixa o jogo com graficos ruins. É recomendado liga-lo caso tenha um computador fraco.
+Modo de renderização de luzes:\nQuando desligado, a qualidade gráfica é reduzida. É recomendado desligá-lo caso tenha um computador fraco.
 SINCRONIZAÇÃO VERTICAL
 CONECTAR
 GRÁFICOS
-Ao alterar as configurações de sombra, quanto menos sombra, melhor o desempenho do jogo.
+Alterar configuração de sombras. Quanto menos sombras, melhor o desempenho do jogo.
 MENU PRINCIPAL
-MODO DE RENDERIZAÇÃO LEVE
+RENDERIZAR LUZES
 DESFOQUE DE MOVIMENTO
 DISTÂNCIA DA SOMBRA
 DETALHES
@@ -36,56 +36,56 @@ DETALHES
 TUTORIAIS
 ATENÇÃO
 Pesquisar servidores disponíveis
-Não mostrar isso denovo
-Gostaria de se conectar ?
+Não mostrar isso novamente
+Como você gostaria de conectar?
 LISTA DE SERVIDORES
-OK
+OKAY
 PROCURAR PARTIDA
 2. Usando armas
-Usamos Discord como forum. Instalação não requerida.\n(Clique no logo para abrir)
+Usamos Discord como forum. Instalação não requerida.\n(Clique no logo para entrar)
 Por padrão, o servidor será iniciado em rede local.\nSeus amigos precisarão do endereço IP para se conectar.\nSe você quiser configurar um servidor público, selecione o arquivo LocalAdmin.exe e siga as instruções.\nCaso tiver alguma pergunta, por favor, pergunte ao nosso suporte técnico (link no menu principal)
-1. O Basico
-O jogo apresentado esta em "public beta".\nTalvez experiencie problemas de conexão e outros bugs.\nA versão atual do jogo não reflete de maneira alguma a versão final do jogo.
-4. (mais tutorias logo...)
+1. O básico
+O jogo apresentado esta em beta pública.\nTalvez experiencie problemas de conexão e outros bugs.\nO estado atual não representa a versão final.
+4. (mais tutorias logo)
 CONEXÃO DIRETA
 SUPORTE TECNICO / FORUM
 VOLUME
-Entre em um servidor a partir do endereço IP.
+Digite o endereço IP do server desejado.
 BAIXANDO DADOS
 SEM SERVIDORES DISPONÍVEIS
-APERTE ESC PARA CANCELAR / FECHAR
+APERTE ESC PARA FECHAR / CANCELAR
 CONTROLES
 QUANTIDADE DE SANGUE
 Limite de FPS
 Limite de FPS não funciona quando S. Vertical está ligado.
-Definir controles padrão
+Retornar ao padrão
 Usamos as discussões da Steam como fórum. (Clique no logo abaixo para abrir o fórum)
 CONFIGURAÇÃO DE AUDIO
 VOLUME PRINCIPAL
-VOLUME DO MENU
+MÚSICA DO MENU
 CHAT DE VOZ
 EFEITOS SONOROS
 OPÇÕES DE GAMEPLAY
 INTRO DESAPARECER RAPIDAMENTE
 O texto de introdução da classe desaparecerá muito mais rapidamente.
 SCP-079 - ATIVAR MODO ALTERNATIVO
-Pressione uma vez para alternar entre os modos da câmera.
+Pressione espaço uma vez para alternar entre os modos de câmera.
 SCP-079 - PÓS-PROCESSAMENTO
 Se desativado, os efeitos da câmera serão fortemente reduzidos.
 BALANÇO DA CABEÇA
-Ativa o balanço da camera em primeira pessoa enquanto se movimenta.
-ALTERNAR "CORRIDA"
-Para correr, o botão liga e desliga, em vez de ser mantido pressionado.
-SEPARAR BARRA DE VIDA ARTIFICIAL
+Ativa o balanço de câmera em primeira pessoa enquanto se movimenta.
+CORRER ALTERNADO
+Para correr, aperta apenas uma vez, ao invés de manter pressionado.
+SEPARAR BARRA DE HP ARTIFICIAL
 É dado uma barra de vida artificial quando usado adrenalina, ao inves de se juntar a principal.
-Nossas traduções são open-source no GitHub!\nQuer ajudar? Clique aqui.
+Nossas traduções são open-source no GitHub!\nQuer ajudar? Clique aqui para acessar o repositório.
 PRESENÇA NA COMUNIDADE
-Se ativado, seu status será exibido no Discord / Steam.
-EXIBIR SAÚDE EXATA
+Se ativado, seu status será exibido no Discord/Steam.
+EXIBIR HP EXATO
 Exibe a quantidade de vida exata, em vez de apenas a porcentagem.
 LOBBY PUBLICO
 Se ativado, seus amigos do Steam podem se juntar a você sem permissão.
 ESCONDER IP
-Se ativado, qualquer ip no console não ira ser mostrado.
-ALTERNAR "PEGAR ITENS"
-Se ativado, para pegar itens não é necessario segurar a tecla; Aperte a tecla denovo para cancelar.
+Se ativado, qualquer IP no console não irá ser mostrado.
+PESQUISAR ALTERNADO
+Se ativado, para pegar itens não é necessário segurar a tecla; pressione a tecla novamente para cancelar.

@@ -1,0 +1,20 @@
+Atirar
+Mirar
+Pular
+Interagir
+Inventário
+Recarregar
+Correr
+Chat de Voz
+Esgueirar-se
+Mover para Frente
+Mover para Trás
+Mover para Esquerda
+Mover para Direita
+Lista de Jogadores
+Informação do Personagem
+Remote Admin
+Ativar Lanterna
+Chat de Voz Alt
+Noclip
+Console do Jogo

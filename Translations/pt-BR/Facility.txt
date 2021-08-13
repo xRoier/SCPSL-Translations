@@ -1,14 +1,14 @@
 VOLUME DA VOZ
-OK
-INICIAR
-RE-CONTENÇÃO DE SCP-106\nPROCESSO DE CONTENÇÃO
+Sim
+FORÇAR INÍCIO
+PROCEDIMENTO DE RECONTENÇÃO\nDO SCP-106
 Inverter Eixo-Y
 RESUMO
 Cancelar
-I N V E N T Á R I O
+I N V E N T O R Y
 BRILHO
 OPÇÕES
-SAIR
+DESCONECTAR
 OGIVA NUCLEAR ESTÁ DESATIVADA
 ACESSO NEGADO
 CHAT DE VOZ
@@ -16,25 +16,25 @@ INVENTÁRIO LOTADO
 SENSIBILIDADE
 HACKEANDO
 PEGANDO...
-Aumentar o brilho <b>piora significamente a experiência </b>do jogo.\nTente deixar esse valor o mais baixo possivel.\n<b>é recomendado deixar no valor padrão.</b>
-[1] ABRIR/FECHAR PORTA\n[2] TRANCAR A PORTA*\n\n*Ao fechar a porta usa a habilidade especial.
-A PORTA FOI BLOQUEADA PELO SCP-079.
-Modo tela cheia.
+Aumentar o brilho <b>piora significamente a experiência </b>do jogo.\nTente deixar esse valor o mais baixo possivel.\n<b>É recomendado deixar no valor padrão.</b>
+[1] ABRIR/FECHAR PORTA\n[2] TRANCAR PORTA*\n\n*Fechar a porta usa a habilidade especial.
+PORTA FOI BLOQUEADA PELO SCP-079.
+Modo de tela cheia
 Tem certeza que deseja sair desse servidor?
-Opções basicas. Lista completa das configurações no menu principal.
-ESPERANDO POR JOGADORES...
+Opções básicas. Lista completa das configurações no menu principal.
+ESPERANDO POR JOGADORES
 RESUMO
 CONTINUAR
 VOLUME PRINCIPAL
 conectado(s)
-Você escapou como cientista e se juntou as tropas da MTF.
-Você escapou como Classe-D e se juntou as tropas da Insurgencia do Caos.
+Você escapou como Cientista e se juntou a MTF.
+Você escapou como Classe-D e se juntou a Insurgencia do Caos.
 VOCÊ É
 Tempo até a fuga: [escape_minutes] minutos e [escape_seconds] segundos
 Espere [time] para poder usar [item] novamente.
-SEGURE <color=white><b>F1</b></color> PARA MAIS INFORMAÇÕES.
-Você foi algemado\n<size=40>Siga ordens ou peça ajuda a alguém do seu time</size>
-Você foi recapturado pela Nine-Tailed Fox.\nCom uma ameaça a menos, eles puderam se reforçar.
-Você foi aprisionado pela Insurgência do Caos.\nEles puderam tirar proveito de suas informações que você os deu.
-RODADA INICIA EM: <color=yellow>{0}</color>s
-A RODADA ESTÁ <color=#FF5050>PAUSADA</color>
+Segure <color=white><b>F1</b></color> para mais informações.
+Você foi algemado.\n<size=40>Siga as ordens ou peça ajuda ao seus colegas de time.</size>
+Você foi recapturado pela Nine-Tailed Fox.\nCom uma ameaça a menos na instalação, eles puderam se reforçar.
+Você foi aprisionado pela Insurgência do Caos.\nEles puderam tirar vantagem das informações que você forneceu.
+ROUND INICIA EM: <color=yellow>{0}</color>s
+ROUND ESTÁ <color=#FF5050>PAUSADO</color>
