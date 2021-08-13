@@ -17,7 +17,7 @@ hu by asderman
 it by Lycan, terminator-97 & Bay
 ja by PalZaxson, sanyae2439 & Tychus
 ko by Dr-Devan & Arizen, schade
-lv by Rainers
+lv by Rainers & client
 nb by Tam & Evan
 nl by Lazyneer, DatBoiFaCeBjEr, Hoptimtom & Rin
 pl by Multiverse Uncle
