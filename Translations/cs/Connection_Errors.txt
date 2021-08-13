@@ -35,3 +35,4 @@
 <size=80>ODPOJEN</size>\nFailed to process server security verification.
 <size=80>ODPOJEN</size>\nProcessing of server security verification was too slow for the server.\nPlease try again or contact server administrator.
 <size=80>AUTH Chyba</size>\nCentral Server Message: [message].
+<size=80>ODPOJEN</size>\nServer se vypíná.

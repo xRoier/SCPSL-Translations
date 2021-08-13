@@ -67,25 +67,25 @@ VOICE CHAT
 SOUND EFFECTS
 GAMEPLAY OPTIONS
 FAST INTRO FADE
-Class intro text will fade out much more quickly.
+Úvodní text třídy zmizí mnohem rychleji.
 SCP-079 - TOGGLE VIEW MODE
-Press once to swap between camera modes.
+Jedním stisknutím přepínáte mezi režimy kamery.
 SCP-079 - POST-PROCESSING
-If disabled, camera effects will be heavily reduced.
+Pokud je vypnuta, efekty kamery budou výrazně omezeny.
 HEAD BOB
-Enables first-person camera bobbing during movement.
+Umožňuje houpání kamery z pohledu první osoby během pohybu.
 TOGGLE SPRINT
-Sprinting toggles on and off, instead of being held down.
-SEPARATE ARTIFICIAL HP BAR
-Gives artificial HP its own health bar, instead of an overlay.
+Sprintování se zapíná a vypíná, místo toho, aby se podrželo.
+ODDĚLENÝ UMĚLÝ HP BAR
+Oddělený HP bar.
 Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
 RICH PRESENCE
-If enabled, your status will be displayed on Discord/Steam.
-DISPLAY EXACT HP VALUE
-Displays exact HP, instead of just the percentage.
-PUBLIC LOBBY
-If enabled, your steam friends can join you without permission.
-HIDE IP
-If enabled, any IP in client console is not displayed.
+Pokud je tato možnost povolena, váš stav se zobrazí na Discordu/Steamu.
+ZOBRAZIT PŘESNOU HODNOTU HP
+Zobrazí přesnou hodnotů HP namísto procent.
+Veřejná lobby
+Pokud je tato možnost povolena, mohou se k vám vaši přátelé ze služby Steam připojit bez povolení.
+SCHOVAT IP
+Pokud je tato možnost povolena, nezobrazí se žádná IP adresa v klientské konzoli.
 TOGGLE SEARCH
-Item pickup will not require a held key; press again to cancel.
+Vyzvednutí položky nebude vyžadovat podržení klávesy; opětovným stisknutím ji zrušíte.

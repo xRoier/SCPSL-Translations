@@ -14,4 +14,4 @@ Obecná interakce
 Byl jsi napaden!
 Na mapě byly zvýrazněny generátory!
 NEBEZPEČÍ
-SCPčka{0}MTF & Strážníci{1}Vědci{2}Personál třídy-D{3}Vzbouřenci chaosu{4}
+SCPčka{0}MTF & Strážných{1}Vědci{2}Personál třídy-D{3}Vzbouřenci chaosu{4}

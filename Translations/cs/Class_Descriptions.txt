@@ -1,4 +1,4 @@
-Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color><color=#FFFF00>\nPodrž levé tlačítko + W a zaměř se na svého nepřítele, aby jsi ho zabil.\nPři nižším HP jsi rychlejší</color>
+Zabijte všechny.\nZabraňte útěku.\nSpolupracujte s ostatními <color=#F00>SCP.</color><color=#FFFF00>\nPodržte klávesu pro míření, zatímco jste pozorováni, abyste mohli mrkat.\nOdoláváte určitému poškození střelbou a máte regenerační štít.</color>.
 Uteč ze zařízení.\nSpolupracuj se <color=#008F1e>Vzbouřenci Chaosu.</color>\nDrž si odstup od ostatních týmů
 Brzy se znovuzrodíš.
 Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color><color=#FFFF00>\nMůžeš procházet dveřmi.\nLevým tlačítkem myši chytáš nepřátelé do své dimenze\nPodržením TAB získáš přístup ke svým schopnostem.</color>

@@ -2,7 +2,7 @@ Novinky
 Servery
 Nastavení
 Odejít
-Sociální sétě
+Sociální sítě
 Internet
 Oblíbené
 Oficiální
@@ -30,7 +30,7 @@ V-Sync
 FPS Limit
 Vypnuto
 Kvalita textur
-Maximální počet krve
+Obtisky
 Stíny
 Rozlišení stínů
 Vzdálenost stínů
@@ -46,7 +46,7 @@ Hlasitost rozhraní
 Nabídka zvuk menu
 Rychlé zmizení úvod.třídy
 Houpání kamery při chůzi
-Přepánaní sprintu
+Přepínaní sprintu
 Zobrazování přesné hodnoty HP
 Rich Presence
 Veřejná lobby
@@ -64,7 +64,7 @@ Jste si jisti, že chcete opustit hru?
 Rozlišení obrazovky
 SCHOVAT IP
 Vítej zpět, {username}!
-Bonus
+Credits
 AUTENTIFIKACE
 Připojení k centrálním serverům...
 <color=green>Spojení navázáno</color>
@@ -85,3 +85,8 @@ PŘEČTI SI VÍCE
 PRONÁJEM SERVERU
 ZRUŠIT
 Sekund
+Za to, že hrajete naši hru!
+Flash Taskbar On Spawn
+Okolní prostředí
+Volumetrická světla
+Bloom
