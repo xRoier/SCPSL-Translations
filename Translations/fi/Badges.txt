@@ -12,7 +12,7 @@ Northwood Henkilökunta
 Northwood Steamjohtaja
 Northwood Järjestelmänvalvoja
 Northwood Wikijohtaja
-SCP:SL Taidejohtaja
+SCP:SL Taidepäällikkö
 SCP:SL Taidevalvoja
 SCP:SL Artisti
 SCP:SL Backend Kehittäjä
@@ -39,6 +39,16 @@ SCP:SL Laadunvarmistus
 SCP:SL Laadunvarmistuksenvalvoja
 SCP:SL Twitch Tilaaja
 SCP:SL Johtava Äänisuunnittelija
-Northwood Palautetiimi
+Northwood Palautekoordinaattori
 Northwood Varmennusvastaavien Valvoja
 SCP:SL Virallisen Palvelimen Valvoja
+Northwood Palautevalvoja
+Northwood Varmennuspäällikkö
+Northwood Bottipäällikkö
+Northwood Käännöspäällikkö
+SCP:SL Pelisuunnittelupäällikkö
+SCP:SL Animaattori
+Northwood Julkissuhteiden Johtaja
+SCP:SL Avustaja
+SCP:SL Ääninäyttelijä
+SCP:SL Laitossijoittaja

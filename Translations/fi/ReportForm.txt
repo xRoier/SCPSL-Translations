@@ -1,7 +1,7 @@
-Raportoi Pelaaja
+Ilmianna Pelaaja
 Kohde:\nPelaajan ID:\nKuvaus:
 Peruuta
-Raportoi palvelimen sääntörikkomuksista
-Raportoi huijauksesta tai raidauksesta
-RAPORTOIDAAN
+Ilmianna palvelimen sääntörikkomuksista
+Ilmianna huijauksesta tai hyökkäyksestä
+LÄHETETÄÄN
 Odota...

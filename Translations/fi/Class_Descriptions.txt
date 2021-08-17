@@ -1,4 +1,4 @@
-Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color>kanssa.<color=#FFFF00>\nPidä pohjassa vasenta hiirinappia+W ja tähtää kohti vihollistasi tappaakseen heidät.\nOlet nopeampi kun olet heikompi.</color>
+Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color>kanssa.<color=#FFFF00>\nPidä pohjassa tähtäämisnäppäintäsi räpäyttääksesi.\nSinä kestät jotain vahinkoa luodeista, ja sinulla on uudistuva suoja.</color>
 Pakene laitoksesta.\nToimi <color=#008F1E>Chaos Insurgency:n</color> kanssa.\nVaro muita tiimejä.
 Synnyt uudelleen kohta.
 Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color> kanssa.<color=#FFFF00>\nVoit kävellä ovien läpi.\nVasen hiirinappi tekee vahinkoa ja teleportoi ihmiset sinun tasku-ulottuvuuteen.\nPidä TAB pohjassa käyttääksesi teleportaatio-funktioitasi.</color>

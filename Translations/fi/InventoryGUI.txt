@@ -13,3 +13,5 @@ Liikkumisnopeus
 Esineraja:
 Ammusraja:
 {0} yhteensä
+Panssarin lävistys
+Juoksutarkkuus

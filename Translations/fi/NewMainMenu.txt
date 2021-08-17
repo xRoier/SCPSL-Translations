@@ -30,7 +30,7 @@ V-Sync
 FPS Raja
 Poissa Päältä
 Tekstuurien Laatu
-Maksimi Verimäärä
+Dekalit
 Varjot
 Varjojen Resoluutio
 Varjojen Etäisyys
@@ -86,3 +86,7 @@ VUOKRAA PELIPALVELIN
 PERU
 Sekuntti
 Pelin pelaamisesta!
+Väläytä tehtäväpalkkia syntyessä
+Taustainen okkluusio
+Kolmiulotteinen valokäsittely
+Bloom

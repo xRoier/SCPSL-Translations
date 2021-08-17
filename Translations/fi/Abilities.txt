@@ -6,8 +6,8 @@ Aseeton:Sinulla ei ole mitään. Etsi jotain. Mitä tahansa.
 Avainkortti:Sinulla on avainkortti, se ei ole paras mutta älä menetä sitä.
 Vakiovarustus:Olet varustettu kiväärillä, kranaateilla, radiolla, käsiraudoilla ja avainkortilla.
 Aseistettu & Vaarallinen:Sinulle on lähetetty kevyt konekivääri, hakkerointityökalu (avainkortti) ja ensiapupakkaus.
-Yllättävä Nopeus:Kun kukaan ei näe sinua, liikut hyvin nopeasti. Jos ihminen katsoo sinua kohti, et voi liikkua tai hyökätä, mutta kaikki ihmiset räpäyttävät silmiänsä samanaikaisesti muutaman sekunnin välein, jolloin voit toimia.
-Paniikki:Liikut nopeammin kun terveytesi huononee.
+Niskantuhoava Nopeus:Hällä väliä minne he piiloutuvat, sinä tulet löytämään heidät ripeästi. Tuplaa liikkumisnopeutesi ja matkasi kun he räpsäyttävät silmiänsä, sinun tappamiskyvyn kustannuksella. Kestää hetken sen jälkeen kun joku näkee sinut, tai kun perut kyvyn itse.
+Räpsäytys:Kun he pistävät silmät sinua kohti, pistä heidät katumaan mikäli he katsovat pois päin, edes hetkeksi. Kun silmä muuttuu tummanpunaiseksi, pidä sitä pohjassa ja liikuta osoittajaa haluamaasi kohteeseen. Päästä irti teleportoidaksesi ja tappaaksesi lähimmän ihmisen kahden metrin sisällä osoittajasta.
 Vajoama:Sinä asetat tai teleportoit vajoamaasi, jota edustaa musta läiskä maassa.\nSinulla voi olla vain yksi vajoama kerrallaan, mutta sitä voi siirtää koska vain. Teleportointi kestää muutaman sekunnin.
 Korroosio:Voit liikkua ovien läpi kävelemällä niihin.
 Joutsenlaulu:Et ota melkein mitään vahinkoa mistään lähteestä, paitsi kranaateista ja sähköstä, mutta suojakammiossasi on pieni huone, johon kukin pelaaja voi päästä tappamaan itsensä. Siitä lähtien kuka tahansa voi painaa kyseisessä kammiossa olevaa painiketta joka viipymättä eristää/"tappaa" sinut viidentoista sekunnin viiveen jälkeen.
@@ -26,5 +26,6 @@ Avaa/Sulje Ovet:Voit avata ja sulkea ovia 5 AP:n kanssa. Voit myös lukita ne, j
 Tesla-ylikuormitus:Voit aktivoida Tesla-portin 50 AP:lla välittömästi, tappamalla kaikki pelaajat, jotka ovat sen sisällä tai lähellä.
 Lukitus:Alkaen avaintaso 2:sta voit toimia joidenkin huoneiden kanssa, lukiten kaikki ovet ja sammuttamalla kaikki valot. Lukittujen huoneiden sisällä ihmiset eivät näe SCP-173:a.
 Käytännöllisesti Tuhoutumaton:Viisi generaattoria syntyy ympäri vakavaa suoja-aluetta. Jos kaikki niistä avataan ja aktivoidaan, sinut tuhotaan.\nGeneraattoreilla on ajastin, jonka voi mikä tahansa pelaaja keskeyttää painamalla "CANCEL" nappia.
-Kaulan Naksautus:Pidä tai klikkaa hiirtä rikkooksesi ihmisen kaulan, joka tappaa heidät välittömästi jos he eivät näe sinua.
+Teräsbetoni:Hyväksy heidän ihailun katseensa, mutta pidä vahva puolustus heidän vandalismia vastaan. Sinulla on sisäänrakennettu kestävyys luoteja vastaan. Pienitehoiset aseet tekevät huomattavasti vähemmän vahinkoa verrattuna lävistäviin aseisiin.
 Ryntäys (Raivo):Pysäytä heidän pakomatka lyhyeen - he ansaitsevat sen. Sinä ryntäät suoraan eteenpäin, tuhoassesi kaiken edessäsi pienen matkan ajan. Jos osut raskaaseen oveen, pakotat itsesi sen läpi.
+Kiukku:Anna heidän tietää sinun raivosi. Luo lätäkkö liejua allesi joka tahraa ja vaikeuttaa ihmisten kulkemista. Tahroittamien ihmisten tappaminen antaa hieman suojusta takaisin.
