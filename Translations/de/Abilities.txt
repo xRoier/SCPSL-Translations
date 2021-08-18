@@ -5,7 +5,7 @@ Inventar:Öffne dein Inventar und wähle ein Item mit Links-Klick aus, oder lass
 Unbewaffnet:Du hast gar nichts. Finde etwas, egal was.
 Zugangskarte:Du hast eine Zugangskarte, nicht die beste aber immerhin. Verlier sie nicht!
 Standard Ausrüstung:Du bist mit einem Gewehr, Granaten, einem Radio, einem Entwaffner und einer Zugangskarte ausgerüstet.
-Bewaffnet & Gefährlich:Du bist mit einem LMG (Leichtes Maschinengewehr), einem Hacker-Tool (Zugangskarte) und einem \nErste Hilfe Paket ausgerüstet.
+Bewaffnet & Gefährlich:Du bist mit einem LMG (Leichtes Maschinengewehr), einem Zugangsgerät und einem \nErste Hilfe Paket ausgerüstet.
 Erschreckende Geschwindigkeit:Wenn du unbeobachtet bist kannst du dich sehr schnell bewegen. Wenn dich aber ein Mensch direkt ansieht, kannst du weder angreifen noch dich bewegen.\nKeine Sorge, alle Menschen, die dich beobachten blinzeln gleichzeitig alle paar Sekunden, in diesem Moment kannst du zuschlagen.
 Panik:Du bewegst dich schneller je weniger HP du hast.
 Schlupfloch:Du kannst eine schwarze Pfütze aus Korrosion platzieren und dich jederzeit zu ihr zurück teleportieren. Teleportieren dauert ein paar Sekunden.\nDu kannst dein Schlupfloch bewegen, indem du es noch einmal neu platzierst.

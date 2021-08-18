@@ -21,24 +21,24 @@ Schalldämpfer~Geräuschmoderator. Reduziert die Lautstärke von Schüssen, erh�
 Mündungsfeuerdämpfer~Eliminiert das Mündungsfeuer. Macht das schießen in dunkler Umgebung einfacher.
 Mündungsbremse~Rückstoßkompensator. Nutzt Beschleunigungsgase um den Rückstoß zu verringern. Erhöht die Lautstärke der Schüsse.
 Mündungsverstärker~Erhöht die Feuerrate, resultiert in höheren Schaden pro Sekunde. Die Waffe ist dadurch schwerer zu kontrollieren.
-FMJ Magazin~Standardmagazin dass Vollmantelmunition enthält.
-AP Magazin~Standardmagazin dass panzerbrechende Munition enthält.
-JHP Magazin~Standardmagazin dass Hohlspitzmunition enthält.
-Erweitertes FMJ Magazin~Erweitertes Magazin dass Vollmantelmunition enthält.
-Erweitertes AP Magazin~Erweitertes Magazin dass panzerbrechende Munition enthält.
-Erweitertes JHP Magazin~Erweitertes Magazin dass Hohlspitzmunition enthält.
-FMJ Trommelmagazin~Trommelmagazin dass Vollmantelmunition enthält.
-AP Trommelmagazin~Trommelmagazin dass panzerbrechende Munition enthält.
-JHP Trommelmagazin~Trommelmagazin dass Hohlspitzmunition enthält.
-Kleines FMJ Magazin~Kleines Magazin dass Vollmantelmunition enthält.
-Kleines AP Magazin~Kleines Magazin dass panzerbrechende Munition enthält.
-Kleines JHP Magazin~Kleines Magazin dass Hohlspitzmunition enthält.
+FMJ Magazin~Standardmagazin das Vollmantelmunition enthält.
+AP Magazin~Standardmagazin das panzerbrechende Munition enthält.
+JHP Magazin~Standardmagazin das Hohlspitzmunition enthält.
+Erweitertes FMJ Magazin~Erweitertes Magazin das Vollmantelmunition enthält.
+Erweitertes AP Magazin~Erweitertes Magazin das panzerbrechende Munition enthält.
+Erweitertes JHP Magazin~Erweitertes Magazin das Hohlspitzmunition enthält.
+FMJ Trommelmagazin~Trommelmagazin das Vollmantelmunition enthält.
+AP Trommelmagazin~Trommelmagazin das panzerbrechende Munition enthält.
+JHP Trommelmagazin~Trommelmagazin das Hohlspitzmunition enthält.
+Kleines FMJ Magazin~Kleines Magazin das Vollmantelmunition enthält.
+Kleines AP Magazin~Kleines Magazin das panzerbrechende Munition enthält.
+Kleines JHP Magazin~Kleines Magazin das Hohlspitzmunition enthält.
 4-Schuss Zylinder~Enthält weniger Kugeln ist aber in der Lage mehr Schaden gegen gepanzerte Ziele auszurichten..
 6-Schuss Zylinder~Der Klassiker.
 8-Schuss Zylinder~Enthält mehr Kugeln, braucht aber durch einen stärkeren Abzug länger um akkurate Schüsse abzugeben.
 Karabinerempfänger~Regulärer Karabinerempfänger welcher ein guter Kompromiss zwischen Feuerkraft und Mobilität bildet.
-Gewehrempfänger~Größerer Empfänger welcher die Feuerkraft und Genauigkeit erhöht, allerdings verringert ein schwerere Gassystem die Schussrate.
+Gewehrempfänger~Grösserer Empfänger welcher die Feuerkraft und Genauigkeit erhöht, allerdings verringert ein schwerere Gassystem die Schussrate.
 Kurzer Lauf~Kürzere Version des Standardlaufes, genutzt um die Ausrüstungszeit zu verringern und die Mobilität zu erhöhen.
 Choke~Vergrößerter Radius der Streuung aber verbessert die Einheitlichkeit des Schussmusters.
 Langer Lauf~Verringert die Streuung minimal, erhöht allerdings das gesamte Gewicht und Länge der Waffe.
-Kein Schaft~ Konfigurationen dieser Klasse kommen mit großer Mobilität ein, aber das entfernen des Schafts macht es unmöglich sicher zu Zielen.
+Kein Schaft~ Konfigurationen wie diese kommen mit grosser Mobilität ein, aber das entfernen des Schafts macht es unmöglich sicher zu Zielen.
