@@ -1,6 +1,6 @@
 VOLUME DES VOIX
 OUI
-<size=30>FORCER LE DÉMARRAGE</size>
+<size=25>FORCER LE DÉMARRAGE</size>
 PROCÉDURE DE RE-CONFINEMENT\nDE SCP-106
 Inverser l'axe Y
 RÉSUMÉ
@@ -20,7 +20,7 @@ Augmenter la luminosité <b>diminue l'immersion</b> dans le jeu.\n<b>Il est reco
 [1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Le verrouillage d'une porte utilise votre compétence spéciale.
 PORTE VERROUILLÉE PAR SCP-079
 Mode plein écran
-Êtes-vous sûr de vouloir quitter ce serveur ?
+Êtes-vous sûr de vouloir quitter le serveur ?
 Options de base : pour modifier autre chose, allez au menu principal.
 EN ATTENTE DE JOUEURS\n
 RÉSUMÉ

@@ -1,9 +1,9 @@
-<size=80>VOUS AVEZ ÉTÉ ÉJECTÉ</size>\nLe serveur a annulé la connexion.\n<size=26>\nVous avez probablement été banni temporairement par les administrateurs\nou vous n'avez pas répondu aux exigences du serveur (</size><size=35>Redémarrez le jeu ou Steam</size><size=26>).\nEn ce qui concerne les bannissements du serveur : les développeurs du jeu ne sont pas responsables.\n</size>
+<size=80>VOUS AVEZ ÉTÉ ÉJECTÉ</size>\nLe serveur a annulé la connexion.\n<size=26>\nVous pouvez avoir été banni temporairement par les administrateurs\nou vous n'avez pas répondu aux exigences du serveur (</size><size=35>Redémarrez le jeu ou Steam</size><size=26>).\nEn ce qui concerne les bannissements du serveur : les développeurs du jeu ne sont pas responsables.\n</size>
 <size=80>DÉCONNECTÉ</size>\nL'hôte spécifié n'est pas disponible.\n(Vérifiez si l'IP est bien marquée et qu'il n'y ait pas d'espace en trop)
 <size=80>DÉCONNECTÉ</size>\nL'identifiant de connexion spécifié n'existe pas.
 <size=80>DÉCONNECTÉ</size>\nLe canal spécifié n'existe pas.
 <size=80>DÉCONNECTÉ</size>\nLe serveur est plein.\nVeuillez réessayer dans un instant.
-<size=80>DÉCONNECTÉ</size>\nMauvais paquet reçu.\nVeuillez réessayer dans un instant.
+<size=80>DÉCONNECTÉ</size>\nMauvais paquet reçu.\nVeuillez réessayer.
 <size=80>DÉCONNECTÉ</size>\nConnexion perdue (expirée).
 <size=80>DÉCONNECTÉ</size>\nConnexion perdue (expirée).
 <size=80>DÉCONNECTÉ</size>\nL'opération n'est pas supportée.
@@ -35,3 +35,4 @@
 <size=80>DÉCONNECTÉ</size>\nÉchec de la vérification de la sécurité du serveur.
 <size=80>DÉCONNECTÉ</size>\nLe traitement de la vérification de la sécurité du serveur était trop lent pour le serveur.\nVeuillez réessayer ou contacter l'administrateur du serveur.
 <size=80>AUTH ERROR</size>\nMessage du Serveur Central : [message].
+<size=80>DÉCONNECTÉ</size>\nLe serveur est en cours de fermeture.
