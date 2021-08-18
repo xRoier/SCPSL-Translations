@@ -9,7 +9,7 @@ Einfacher Schaft~Einfacher Schaft, liefert bessere Kontrolle über die Waffe wen
 Langer Schaft~liefert bessere Kontrolle über die Waffe wenn man Zielt, erhöht allerdings die Ausrüstungszeit.
 Eingezogener Schaft~Macht die Waffe kompakter, dadurch wird die Mobiliät erhöht.
 Leichter Schaft~Reduziert das Gewicht der Waffe, wodurch aber der Rückstoß deutlich schwerer zu kontrollieren ist wenn man Zielt.
-Schwerer Stock~Erhöht das Gewicht und verringert die Mobilität, dadurch erhöht sich aber die Rückstoßkontrolle beim Zielen. 
+Schwerer Schaft~Erhöht das Gewicht und verringert die Mobilität, dadurch erhöht sich aber die Rückstoßkontrolle beim Zielen. 
 Rückstoßvermindernder Schaft~Schaft ausgestattet mit einem System das den Rückstoß zwischen individuellen Schüssen ausgleicht.
 Vordergriff~Vertikaler Vordergriff. Macht es einfacher die Laufbewegung zu kontrollieren.
 Laservisier~Gibt einem ein Referenzpunkt auf dem Ziel, was Hüftfeuer vereinfacht aber auch deine Position preisgibt.
@@ -40,4 +40,5 @@ Karabinerempfänger~Regulärer Karabinerempfänger welcher ein guter Kompromiss 
 Gewehrempfänger~Größerer Empfänger welcher die Feuerkraft und Genauigkeit erhöht, allerdings verringert ein schwerere Gassystem die Schussrate.
 Kurzer Lauf~Kürzere Version des Standardlaufes, genutzt um die Ausrüstungszeit zu verringern und die Mobilität zu erhöhen.
 Choke~Vergrößerter Radius der Streuung aber verbessert die Einheitlichkeit des Schussmusters.
-Langer Lauf~ Verringert die Streuung minimal, erhöht allerdings das gesamte Gewicht und Länge der Waffe.
+Langer Lauf~Verringert die Streuung minimal, erhöht allerdings das gesamte Gewicht und Länge der Waffe.
+Kein Schaft~ Konfigurationen dieser Klasse kommen mit großer Mobilität ein, aber das entfernen des Schafts macht es unmöglich sicher zu Zielen.

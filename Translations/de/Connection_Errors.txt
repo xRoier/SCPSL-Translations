@@ -35,3 +35,4 @@
 <size=80>Verbindung unterbrochen</size>\nFehler beim Verarbeiten der Server Sicherheitsverifikation.
 <size=80>Verbindung unterbrochen</size>\nVerarbeitung der Server Sicherheitsverifikation war zu langsam für den Server.\nBitte versuche es erneut oder kontaktiere den Server Administrator.
 <size=80>AUTHENTIFIKATIONSFEHLER/size>\nNachricht vom zentralen Server: [message].
+<size=80>Verbindung unterbrochen</size>\nServer fährt runter.
