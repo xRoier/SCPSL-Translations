@@ -15,5 +15,5 @@ Temps d'équipement
 Temps de rechargement
 ---
 Vitesse de visée
-Étalement des motifs
-Consistance des motifs
+Étalement du motif
+Uniformité du motif
