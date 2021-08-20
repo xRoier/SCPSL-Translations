@@ -2,7 +2,7 @@ Capacité introuvable:L'ID de capacité associé à cette capacité n'existe pas
 Sprint:Vous vous déplacez plus rapidement mais vous devenez plus bruyant et moins discret lors de vos déplacements.
 Furtif:Vos pas sont silencieux mais votre vitesse est fortement réduite.
 Inventaire:Ouvrez votre inventaire et sélectionnez un objet que vous avez ramassé avec le clic gauche ou déposez-le avec le clic droit.
-Désarmé:Vous n'avez rien. Trouvez quelque chose. N'importe quoi ou n'importe qui.
+Désarmé:Vous n'avez rien. Trouvez quelque chose. N'importe quoi.
 Carte d'accès:Vous avez une carte d'accès, ce n'est pas la meilleure mais ne la perdez pas.
 Équipement standard:Vous êtes équipé d’un fusil, de grenades, d’une radio et d’une carte d’accès.
 Armé et dangereux:Vous avez une mitrailleuse légère, un outil de piratage (carte d'accès) et une trousse de premiers soins.
