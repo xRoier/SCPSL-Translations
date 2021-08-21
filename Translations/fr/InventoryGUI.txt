@@ -14,4 +14,4 @@ Limite d'objets:
 Limite de munition:
 {0} total
 Pénétration d'Armure
-Précision de course
+Précision en course

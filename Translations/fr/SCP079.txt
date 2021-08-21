@@ -14,4 +14,4 @@ Interaction generale
 Vous êtes attaqué !
 Les générateurs ont été mis en évidence sur la carte
 DANGER
-SCPs{0}FIM E-11 & Gardes{1}Scientifiques{2}Classes-D{3}Insurgés du Chaos{4}
+SCP{0}FIM E-11 & Gardes{1}Scientifiques{2}Classes-D{3}Insurgés du Chaos{4}

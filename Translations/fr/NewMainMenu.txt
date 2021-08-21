@@ -8,7 +8,7 @@ Favoris
 Officiels
 Historique
 Amis
-Recherche des Serveurs
+Rechercher des Serveurs
 Créer une partie
 Rejoindre
 Connexion IP
@@ -28,7 +28,7 @@ Fenêtre Étirée
 Fenêtré
 Syncronisation Verticale
 Limite Images/s
-Off
+Désactivé
 Qualité des textures
 Decals (Sang/Balles)
 Ombres
