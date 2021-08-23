@@ -1,17 +1,21 @@
 SCP-173
-Klasse D-Personell
+Klasse D-personell
 Tilskuer
 SCP-106
-NTF-Vitenskapsmann
+NTF Spesialist
 SCP-049
 Vitenskapsmann
 SCP-079
-Kaosopprører
+Chaos opprørskonskript
 SCP-096
 SCP-049-2
-NTF-Løytnant
-NTF-Kommandant
-NTF-Kadett
-VEILEDNING
-Anleggsvakt
-SCP-939
+NTF Sersjant
+NTF Kaptein
+NTF Privat
+Veiledning
+Anleggvakt
+SCP-939-53
+SCP-939-89
+Chaos Opprører Riflemann
+Kaos Opprørsoppspreder
+Chaos Opprør Plyndrer

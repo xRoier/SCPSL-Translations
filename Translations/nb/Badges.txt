@@ -1,54 +1,54 @@
-Northwood Chief Executive Officer
-Northwood Chief Information Officer
-Northwood Chief Operations Officer
-Northwood Community Director
-Northwood Discord Manager
-Northwood Executive Assistant
-Northwood Feedback Manager
-Northwood Human Resources
-Northwood Human Resources Director
-Northwood Marketing Platform Manager
-Northwood Staff
-Northwood Steam Manager
-Northwood System Administrator
-Northwood Wiki Manager
-SCP:SL Art Manager
-SCP:SL Art Supervisor
-SCP:SL Artist
-SCP:SL Backend Programmer
-SCP:SL Backend Programming Manager
-SCP:SL Developer
-SCP:SL Event Winner
-SCP:SL Fullstack Programmer
-SCP:SL Game Designer
-SCP:SL Gameplay Programmer
-SCP:SL Global Moderation Manager
-SCP:SL Global Moderator
-SCP:SL Lead Game Designer
-SCP:SL Lead Gameplay Programmer
-SCP:SL Level Designer
+Konsernsjef for Northwood
+Informasjonsdirektør for Northwood
+Driftsdirektør for Northwood
+Samfunnsdirektør for Northwood
+Discord-ansvarlig for Northwood
+Hovedassistent for Northwood
+Tilbakemeldingsleder for Northwood
+Personalansvarlige for Northwood
+Personalsjef for Northwood
+Markedsføringsansvarlig for Northwood
+Northwood Ansatte
+Steam-ansvarlig for Northwood
+Systemadministrator for Northwood
+Wiki-ansvarlig for Northwood
+SCP:SL Kunstleder
+SCP:SL Kunstveileder
+SCP:SL Kunstner
+SCP:SL Backend Programmerer
+SCP:SL Backend Programmerings Leder
+SCP:SL Utvikler
+SCP:SL Arrangementsvinner
+SCP:SL Fullstack Programmerer
+SCP:SL spilldesigner
+SCP:SL Spillprogramerer
+SCP:SL Global Moderasjonsansvarlig
+SCP:SL Global moderator
+SCP:SL Ledende Spill Designer
+SCP:SL Ledende Spillprogramerer
+SCP:SL Nivådesigner
 SCP:SL Partner
 SCP:SL Patreon Supporter
-SCP:SL Quality Assurance Manager
-SCP:SL Sound Designer
-SCP:SL Game Director
-SCP:SL Official Server Manager
-Northwood Verification Specialist
-SCP:SL Anti-Cheat Developer
-SCP:SL Quality Assurance Tester
-SCP:SL Quality Assurance Supervisor
-SCP:SL Twitch Subscriber
-SCP:SL Audio Manager
-Northwood Feedback Coordinator
-Northwood Verification Supervisor
-SCP:SL Official Server Supervisor
-Northwood Feedback Supervisor
-Northwood Verification Manager
-Northwood Bot Manager
-Northwood Translation Manager
-SCP:SL Game Design Manager
-SCP:SL Animator
-Northwood Public Relations Director
-SCP:SL Helper
-SCP:SL Voice Actor
-SCP:SL Foundation Investor
+SCP:SL Kvalitetssikring Sjef
+SCP:SL Lyddesigner
+SCP:SL Spilldirektør
+SCP:SL Offisiell Serverbehandler
+Verifikasjonsspesialist for Northwood
+SCP:SL Anti-Juks Utvikler
+SCP:SL Kvalitetssikrer
+SCP:SL Kvalitetssikringsveileder
+SCP:SL Twitch-abonnent
+SCP:SL Lydbehandlingssjef
+Tilbakemeldingskoordinator for Northwood
+Verifikasjonsveileder for Northwood
+SCP:SL Offisiell Serverveileder
+Tilbakemeldingsveileder for Northwood
+Verifiseringsleder for Northwood
+Bot-leder for Northwood
+Oversettelsesleder for Northwood
+SCP:SL Spilldesignleder
+SCP:SL Animatør
+PR-Direktør for Northwood
+SCP:SL Hjelper
+SCP:SL Stemmeskuespiller
+SCP:SL Stiftelsesinvestor

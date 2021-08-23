@@ -1,20 +1,20 @@
-Shoot
-Zoom
-Jump
-Interact
-Inventory
-Reload
-Run
-Voice Chat
-Sneak
-Move Forward
-Move Backward
-Move Left
-Move Right
-Player List
-Character Info
-Remote Admin
-Toggle Flashlight
-Alt Voice Chat
-Noclip
-Game Console
+Skyt
+Forstørre
+Hopp
+Interagere
+Inventar
+Lad om
+Løp
+Stemme chat
+Snik
+Flytt fremover
+Flytt bakover
+Flytt til venstre
+Flytt til høyre
+Spillerliste
+Karakter Info
+Administrator Fjernstyring
+Veksle lommelykt modus
+Alternativ stemmechat
+Flyvemodus
+Spill konsoll

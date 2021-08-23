@@ -1,7 +1,7 @@
-DECONTAMINATION PROCESS BEGINS IN
-PLEASE EXIT THE AREA
-!  PLEASE EVACUATE  !
-threat analysis in progress
-PREPARING SECURITY SYSTEMS
-systems ready to commence
-initializing procedure p-b-3
+DEKONTAMINASJON PROSESS BEGYNNER OM
+VENNLIGST FORLAT OMRÅDET
+!  VENNSLIGST EVAKUER  !
+trusselanalyse pågår
+KLARGJØRING AV SIKKERHETSSYSTEMER
+systemer klar til å begynne
+initialiseringsprosedyre p-b-3

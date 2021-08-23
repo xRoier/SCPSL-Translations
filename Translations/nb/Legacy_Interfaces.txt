@@ -3,7 +3,7 @@ FØLG ORDRE
 SAMME RANG
 Klasse D-personell rømte
 Forskere overlevde
-Drept av SCPer
+Drept av SCP
 Uskedeliggjorte SCPer
 Stridshode Alpha
 Detonert
@@ -15,3 +15,5 @@ BRUK SYNKEHULL
 DU DØDE
 Du ble drept av
 som
+Passiv
+(skjult)

@@ -1,17 +1,17 @@
-Ammo {0}/{1} {2}
-Damage
-Fire Rate
-Hip Accuracy
-ADS Accuracy
-Weight
-Length
-DROP:
-Helmet Efficacy
-Vest Efficacy
-Stamina Usage
-Movement Speed
-Item Limits:
-Ammo Limits:
-{0} total
-Armor Penetration
-Running Accuracy
+Ammunisjon {0}/{1} {2}
+Skade
+Skuddtakt
+Hofte-nøyaktighet
+ADS-nøyaktighet
+Vekt
+Lengde
+DROPP:
+Hjelm Effektivitet
+Vest Effektivitet
+Utholdenhet Bruk
+Bevegelse-hastighet
+Grense for Utstyr:
+Ammunisjon Grense:
+{0} totalt
+Rustning Penetrerende
+Løpende Nøyaktighet
