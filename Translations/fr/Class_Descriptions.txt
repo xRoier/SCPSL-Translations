@@ -1,5 +1,5 @@
 Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#FFFF00>SCP</color>.<color=#FFA500FF>\nMaintenez votre touche de visée en étant observé pour vous téléporter.\nVous possédez une légère résistance aux balles ainsi qu'un bouclier qui se régénère avec le temps.</color>
-Échappez-vous de la Fondation.\nCoopérez avec l'<color=#008F1E>Insurrection du Chaos.</color>\nÉvitez les autres équipes.
+Échappez-vous de la Fondation.\nCoopérez avec <color=#008F1E>l'Insurrection du Chaos.</color>\nÉvitez les autres équipes.
 Vous allez bientôt réapparaître.
 Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#FFFF00>SCP</color>.<color=#FFA500FF>\nVous pouvez traverser les portes.\nClic gauche sur vos ennemis pour les téléporter dans votre dimension.\nMaintenez la touche TAB pour accéder à vos compétences.</color>
 Aidez <color=#FFFF7CFF>les Scientifiques</color> à s'échapper.\n<color=#FFA500FF>Menottez les Classe-D, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.</color>\nSuivez les ordres du Capitaine et instruisez vos soldats.
