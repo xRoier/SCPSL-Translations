@@ -4,14 +4,14 @@ Az MTF GYŐZÖTT
 D-osztály GYŐZÖTT
 DÖNTETLEN
 Felelősek [summary_scpfrags] ember haláláért.
-A fenyegetés megszűnt. Ez a hely újra biztonságos.
+A fenyegetés megszűnt. A létesítmény újra biztonságos.
 Az összes alapítványi őr meghalt.
 Mindkét fél nagymértékben szenvedett veszteségeket. A nyertes nincs meghatározva.
 [summary_d_escaped] D-osztályú menekült meg
 [summary_s_escaped] tudós menekült meg
-Alpha robbanófej [summary_warhead_kills] lényt ölt meg.
-Az Alpha robbanófej nem volt felrobbantva ezen a küldetésen.
-Ez a küldetés [summary_round_minutes] percig és [summary_round_seconds] mp-ig tartott.
+Az Alpha robbanófej [summary_warhead_kills] lényt ölt meg.
+Az Alpha robbanófej nem lett felrobbantva ebben a körbenn.
+Ez a kör [summary_round_minutes] percig és [summary_round_seconds] mp-ig tartott.
 [summary_scp_terminated] likvidált SCP
 a következő kör [summary_next_round_countdown] mp múlva.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+[summary_damages] sebzést okoztál, valamint [summary_kills] játékost öltél meg.

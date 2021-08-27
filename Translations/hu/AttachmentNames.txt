@@ -1,6 +1,6 @@
 Egyik sem~Alapértelmezett beállítás hatások nélkül.
 Fémirányzékok~Egy pár igazítási jelzőrúd, amelyek egyszerű, könnyű látóeszközt alkotnak.
-Pont Irányzék~Nagyítás nélküli Reflex irányzék, amely kis megvilágított ponttal jelöli az irányt.
+Pont Irányzék~Nagyítás nélküli Reflex irányzék, amely kis megvilágított ponttal jelzi a célzás irányát.
 Holografikus Irányzék~Nagyítás nélküli, holografikus célkereszttel rendelkező irányzék. A közelharcban a leghatékonyabb.
 Éjjellátó Irányzék~Éjjellátó készülékkel kiegészített teleszkópos irányzék. Nehéz, viszont hatékony minden fényviszonyban.
 Lőszerszámláló Irányzék~Fémirányzék beszerelt lőszerszámláló készülékkel.
@@ -41,3 +41,4 @@ Puska Gázdugattyús Zárszerkezet~A teljes méretű zárszerkezet javítja a t�
 Rövid Cső~A szabványos cső rövidített változata, amely a felszerelési idő és a mobilitás javítására szolgál.
 Fojtás~Növeli a teljes szórási sugarat, de javítja a szórási minta kiszámíthatóságát.
 Bővített Cső~Enyhén csökkenti a szórási sugarat, de növeli a lőfegyver teljes súlyát és hosszát.
+Nincs Puskatus~A rövid fegyver konfigurációk nagy mobilitással járnak, azonban a lőfegyverek puskatusainak eltávolítása lehetetlenné teszi a biztonságos célzást..

@@ -9,7 +9,7 @@ ELDOB:
 Sisak Hatékonysága
 Mellény Hatékonysága
 Állóképesség Használat
-Mozgási sebesség
+Mozgás sebessége
 Tárgy Limit:
 Lőszer Limit:
 {0} összesen

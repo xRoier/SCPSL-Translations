@@ -1,4 +1,4 @@
-<size=80>Ki lettél rúgva</size>\nA szerver kénytelen volt megszüntetni a kapcsolatot.\n<size=26>\nIdeiglenesen ki lettél tiltva egy adminisztrátor által\nem felelsz meg a szerver követelményeinek (pl. csatlakozás a Steamhez).\nAz esetleges kitiltásokért - a játék készítői <u>nem</u> felelősek.\n</size>
+<size=80>Ki lettél rúgva</size>\nA szerver kénytelen volt megszüntetni a kapcsolatot.
 <size=80>SZÉTKAPCSOLVA</size>\nA kijelölt host jelenleg nem elérhető.
 <size=80>SZÉTKAPCSOLVA</size>\nA kijelölt kapcsolat azonosítója nem létezik.
 <size=80>SZÉTKAPCSOLVA</size>\nA kijelölt csatorna nem létezik.
