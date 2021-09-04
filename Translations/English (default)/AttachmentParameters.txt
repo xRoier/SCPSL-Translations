@@ -8,7 +8,7 @@ Recoil when aiming
 Bullet accuracy
 Hip-firing accuracy
 Aiming accuracy
-Equip speed
+Equip time
 Gunshot loudness
 Magazine capacity
 Equip time
