@@ -8,7 +8,7 @@ Rückstoß beim Zielen
 Kugelgenauigkeit
 Hüftfeuergenauigkeit
 Zielgenauigkeit
-Ausrüstungsschnelligkeit
+Ausrüstungszeit
 Schusslautstärke
 Magazinkapazität
 Ausrüstungszeit

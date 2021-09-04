@@ -5,8 +5,8 @@
 4~Sicherheitspersonal Zugangskarte
 5~MTF Gefreiter Zugangskarte
 6~Eindämmungsingenieur Zugangskarte
-7~MTF Hauptmann Zugangskarte
-8~MTF Unteroffizier Zugangskarte
+7~MTF Untertoffizier Zugangskarte
+8~MTF Hauptmann Zugangskarte
 9~Einrichtungsmanager Zugangskarte
 10~Chaos Insurgency Zugangsgerät
 11~O5-Level Zugangskarte

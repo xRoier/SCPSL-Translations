@@ -3,7 +3,7 @@ Offene Visierung~Kimme und Korn deiner Waffe, ein einfaches und leichtes Visier.
 Punktvisier~Ein Reflexvisier ohne Vergrößerung, ausgestattet mit einem kleinen leuchtenden Punkt der das Anvisieren vereinfacht.
 Holografisches Visier~Holografisches Visier ohne Vergrößerung, ist am effektivsten in Nahkämpfen.
 Nachtsichtvisier~Teleskopartiges Visier, ausgestattet mit einem Nachtsichtgerät. Schwer aber doch Effektiv in allen Lichtverhälltnissen.
-Munitionszähler~Kimme und Korn mit integriertem Munitionszähler. 
+Patronenzähler~Kimme und Korn mit integriertem Patronenszähler. 
 Teleskopvisier~Schweres Visier, welches optimale optische Vergrößerung anbietet. Perfekt für Fernkämpfe, allerdings limitiert durch die Wahrnehmung. 
 Einfacher Schaft~Einfacher Schaft, liefert bessere Kontrolle über die Waffe wenn man Zielt.
 Langer Schaft~liefert bessere Kontrolle über die Waffe wenn man Zielt, erhöht allerdings die Ausrüstungszeit.
@@ -14,7 +14,7 @@ Rückstoßvermindernder Schaft~Schaft ausgestattet mit einem System das den Rüc
 Vordergriff~Vertikaler Vordergriff. Macht es einfacher die Laufbewegung zu kontrollieren.
 Laservisier~Gibt einem ein Referenzpunkt auf dem Ziel, was Hüftfeuer vereinfacht aber auch deine Position preisgibt.
 Taschenlampe~Schaltbare Lichtquelle. Erhöht zwar das Gewicht deiner Waffe, kann aber in dunklen Räumen dein Leben retten.
-Munitionszähler~Gerät das die restliche Munition zählt. Experimentelle Technologie welche sich als brauchbar bewährt hat, besonders mit großen Magazinen.
+Patronenszähler~Gerät das die restliche Munition zählt. Experimentelle Technologie welche sich als brauchbar bewährt hat, besonders mit großen Magazinen.
 Einfacher Lauf~Konventioneller Lauf ohne Mündungsveränderungen.
 Langer Lauf~Verbessert die Feuerkraft, allerdings auf Kosten von Mobilität.
 Schalldämpfer~Geräuschmoderator. Reduziert die Lautstärke von Schüssen, erhöht aber die Länge und das Gewicht der Waffe. 
