@@ -27,7 +27,7 @@
 31~SCP-018~Super balle capable de rebondir avec une efficacité extrême.
 32~SCP-268~Porté, il vous rend temporairement invisible à moins d'être interrompu par la moindre interaction avec l'environnement.
 33~Adrénaline~Augmente temporairement l'endurance.
-34~Aspirine~Fait endurer les douleurs.
+34~Oxycodone~Fait endurer les douleurs.
 35~Pièce~Vous n'êtes pas sûr pour quelle raison vous voudriez garder ça dans cette situation...
 36~Armure légère
 37~Armure de combat
