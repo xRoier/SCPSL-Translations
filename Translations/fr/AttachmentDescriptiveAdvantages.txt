@@ -1,4 +1,4 @@
 Source de lumière
 Compteur de munitions
-Suppression d'éclat
+Suppression des flashs
 Vision nocturne
