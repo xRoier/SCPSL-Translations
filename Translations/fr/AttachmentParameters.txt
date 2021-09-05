@@ -8,7 +8,7 @@ Recul en visée
 Précision des balles
 Précision de tir
 Précision de visée
-Vitesse d'équipement
+Temps d'équipement
 Bruits des tirs
 Capacité du chargeur
 Temps d'équipement
