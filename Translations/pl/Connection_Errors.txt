@@ -1,4 +1,4 @@
-<size=80>ZOSTAŁEŚ WYRZUCONY</size>\nSerwer wymusił rozłączenie.\n<size=26>\nZostałeś prawdopodobnie czasowo zablokowany przez administratora\n lub nie spełniasz wymagań serwera (np. wersja gry).\nZa ewentualne blokady autorzy gry <b>nie</b> ponoszą odpowiedzialności.\n</size>
+<size=80>ZOSTAŁEŚ WYRZUCONY</size>\nSerwer wymusił rozłączenie.
 <size=80>ROZŁĄCZONO</size>\nWybrany host jest niedostępny.
 <size=80>ROZŁĄCZONO</size>\nWybrany identyfikator połączeń nie istnieje.
 <size=80>ROZŁĄCZONO</size>\nWybrany kanał nie istnieje.
@@ -35,3 +35,4 @@
 <size=80>ROZŁĄCZONO</size>\nOdpowiedź na wyzwanie bezpieczeństwa została odrzucona przez serwer
 <size=80>ROZŁĄCZONO</size>\nOdpowiedź na wyzwanie bezpieczeństwa została przesłana zbyt późno.\nProszę spróbować ponownie lub skontaktować się z administracją serwera.
 <size=80>BŁĄD UWIERZYTELNIANIA</size>\nWiadomość od serwerów centralnych: [message].
+<size=80>ROZŁĄCZONO</size>\nSerwer został wyłączony.

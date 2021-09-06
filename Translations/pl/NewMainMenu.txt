@@ -30,7 +30,7 @@ V-Sync
 Ograniczenie FPS
 Wyłączone
 Jakość tekstur
-Maksymalna ilość krwi
+Efekty środowiskowe
 Cienie
 Rozdzielczość cieni
 Odległość cieni
@@ -86,3 +86,7 @@ WYNAJMIJ SERWER
 ANULUJ
 Sekunda
 Za rozgrywkę w naszej grze!
+Podświetl ikonę gry przy odrodzeniu
+Ambient occlusion
+Światła wolumetryczne
+Bloom

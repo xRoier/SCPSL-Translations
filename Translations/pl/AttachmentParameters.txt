@@ -1,0 +1,19 @@
+Powiększenie przy ADS
+---
+Obrażenia
+Penetracja
+Szybkostrzelność
+Odrzut
+Odrzut przy ADS
+Celność
+Celność
+Celność przy ADS
+Czas dobywania
+Głośność wystrzału
+Pojemność magazynka
+Czas dobywania
+Czas przeładowania
+---
+Prędkość zmiany postawy strzeleckiej
+Rozrzut śrutu
+Spójność rozrzutu
