@@ -9,9 +9,9 @@ SCP-079
 Chaos Insurgency Conscript
 SCP-096
 SCP-049-2
-สิบเอกหน่วย NTF
-ร้อยเอกหน่วย NTF
-พลทหารหน่วย NTF
+Sergeant หน่วย NTF
+Captain หน่วย NTF
+Private หน่วย NTF
 Tutorial
 หน่วยรักษาความปลอดภัย
 SCP-939-53
