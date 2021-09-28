@@ -1,5 +1,5 @@
 Niestandardowy
-Zestaw nr [index].
+Zestaw [index].
 ZAPISZ
 WYCZYŚĆ
 Domyślny
