@@ -1,5 +1,5 @@
 Personalizado
-Preestablecido #
+Preestablecido #[index]
 GUARDAR
 RETIRAR ACCESORIOS
 Predeterminado
