@@ -16,3 +16,6 @@
 <color=#FFFF7CFF>과학자</color>가 탈출하도록 도우세요.\n<color=#0096FF>MTF</color>와 협력하세요.\n다른 개체를 모두 무력화시키세요.
 모두를 제거하세요.\n탈출을 막으세요.\n다른 <color=#F00>SCP</color><color=#FFFF00>와 협력하세요.</color>
 모두를 제거하세요.\n탈출을 막으세요.\n다른 <color=#F00>SCP</color><color=#FFFF00>와 협력하세요.</color>
+<color=#FF8E00>D계급 인원</color>의 탈출을 도우세요.\n다른 개체를 모두 무력화시키세요.
+<color=#FF8E00>D계급 인원</color>의 탈출을 도우세요.\n다른 개체를 모두 무력화시키세요.
+<color=#FF8E00>D계급 인원</color>의 탈출을 도우세요.\n다른 개체를 모두 무력화시키세요.
