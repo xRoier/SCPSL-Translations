@@ -1,0 +1,15 @@
+ลูกอม
+ลูกอมสีรุ้ง
+Its a hard piece of rock candy, packed with all sorts of flavours.
+ลูกอมสีเหลือง
+The overwhelming smell of lemon makes you cringe a little. Trick or treat?
+ลูกอมสีม่วง
+It has a juicy grape smell. Your mouth begins to water. Trick or treat?
+ลูกอมสีแดง
+A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong. Trick or treat?
+ลูกอมสีเขียว
+A nasty, herbal smell emits from the candy. Trick or treat?
+ลูกอมสีฟ้า
+It smells soft and sweet, something akin to a marshmallow.
+ลูกอมสีชมพู
+The strawberry scent is as gentle as it looks. Trick or treat?
