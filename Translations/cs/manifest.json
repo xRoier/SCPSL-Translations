@@ -6,6 +6,10 @@
     "Cezhar",
     "Andrew"
   ],
+  "InterfaceLocales": [
+    "cs-CZ",
+    "cs"
+  ],
   "SystemLocales": [
     "cs-CZ",
     "cs"
