@@ -91,3 +91,8 @@ Ambient Occlusion
 Volumetric Lights
 Bloom
 Toggle Subtitles
+Verifying game assets: [progress]%
+<color=red>Asset verification failure</color>
+VERIFYING GAME ASSETS
+ASSET VERIFICATION FAILURE
+AUTHENTICATION FAILURE
