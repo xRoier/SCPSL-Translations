@@ -6,10 +6,10 @@ Rateo di fuoco
 Rinculo
 Rinculo in modalità mirino
 Precisione del proiettile
-Precisione senza mirare
+Precisione Hip-firing
 Precisione di mira
-Velocità di estrazione
-Rumore dello sparo
+Tempo di equipaggio
+Rumorosità dello sparo
 Capacità del caricatore
 Tempo di estrazione
 Tempo di ricarica

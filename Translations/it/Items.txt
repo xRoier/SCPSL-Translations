@@ -13,8 +13,8 @@
 12~Radio
 13~COM-15
 14~Kit di Pronto Soccorso~Guarisce le tue ferite.
-15~Torcia Elettrica~Sia fatta la luce!
-16~Micro H.I.D.~Arma a scarica elettrica ad alta intensità.
+15~Lampada~Sia fatta la luce!
+16~Micro H.I.D.~Scaricatore di elettricità portatile, ad alta intensità.
 17~SCP-500~La panacea.
 18~SCP-207~Aumenta le tue capacità motorie.
 20~MTF-E11-SR
@@ -35,3 +35,7 @@
 39~.44 Revolver
 40~AK
 41~Fucile a Pompa
+42~Contenitore di caramelle~Un contenitore di dolciumi che contene le seguenti caramelle:
+43~SCP-2176~La tua Ghostlight personale! Attenzione, molto fragile...
+44~SCP-244-A~Un vaso antico, gelido al tatto. Crea una grande nuvola di nebbia ghiacciata quando viene posizionato.
+45~SCP-244-B~Un vaso antico, gelido al tatto. Crea una grande nuvola di nebbia ghiacciata quando viene posizionato.
