@@ -37,3 +37,5 @@
 41~Pușcă
 42~Pungă cu Bomboane~O pungă care conține următoarele bomboane:
 43~SCP-2176~Propria ta Ghostlight! Atenție, foarte fragil...
+44~SCP-244-A~O vază străveche, îngheață la atingere. Creează un nor mare de ceață rece atunci când este plasat.
+44~SCP-244-B~O vază străveche, îngheață la atingere. Creează un nor mare de ceață rece atunci când este plasat.

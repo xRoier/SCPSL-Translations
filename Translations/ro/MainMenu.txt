@@ -89,3 +89,11 @@ ASCUNDE IP
 Dacă activat, orice IP în consola client nu va fi arătată.
 TOGGLE CĂUTARE
 Ridicând un item nu va necesita un buton ținut; apasă iarăși să anulezi.
+Aplică umbre fine colțurilor și zonelor înguste pentru a da modelelor mai multă adâncime.
+Oferă mediului mai multă profunzime la un cost de performanță mare.
+Oferă luminii mai multă profunzime prin aplicarea unei străluciri bazată pe intensitatea luminii.
+Toggle pentru a afișa subtitrări pentru anunțurile cassie.
+Iluminează taskbar-ul când te spaunezi dacă jocul nu este focalizat.
+Netezește liniile și scoate distorsiunile vizuale.
+Sincronizează FPS-ul jocului cu rata de reîmprospătare a monitorului pentru a opri ruperea ecranului.
+Texturi proiectate, cum ar fi găuri de gloanțe sau stropi de sânge.

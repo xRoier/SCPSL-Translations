@@ -90,3 +90,4 @@ Luminează Taskbar Pe Spawn
 Ocluzie Ambientală
 Lumini Volumetrice
 Bloom
+Toggle Subtitrări

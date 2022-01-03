@@ -31,8 +31,8 @@
 <size=80>DECONECTAT</size>\nTokenul tău de server a fost respins.\nRestartează jocul și încearcă iarăși sau contactează studioul tehnic de suport.
 <size=80>DECONECTAT</size>\nAi fost banat de la server.\nMotiv: [reason]
 <size=80>DECONECTAT</size>\nAi fost banat de la server.\nBanul expiră: [date] [time]\nMotiv: [reason]
-<size=80>Așteaptă</size>\nProcesând verificația securității serverului...
-<size=80>DECONECTAT</size>\nEșuat să procesezi verificația securității serverului.
-<size=80>DECONECTAT</size>\nProcesarea a verificația securității serverului era prea încet pentru acest server.\nVă rugăm încercați iarăși sau contactați un administrator a serverului.
+<size=80>Așteaptă</size>\nProcesând verificarea securității serverului...
+<size=80>DECONECTAT</size>\nEșuat să procesezi verificarea securității serverului.
+<size=80>DECONECTAT</size>\nProcesarea a verificarea securității serverului era prea încet pentru acest server.\nVă rugăm încercați iarăși sau contactați un administrator a serverului.
 <size=80>EROARE AUTH</size>\nMESAJ CENTRAL SERVER: [message].
 <size=80>DECONECTAT</size>\nServerul se închide.
