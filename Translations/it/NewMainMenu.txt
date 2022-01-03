@@ -90,3 +90,4 @@ Fai lampeggiare la barra delle applicazioni quando spawni (quando ti rigeneri)
 Occlusione ambientale
 Luci volumetriche
 Sfocatura
+Mostra sottotitoli
