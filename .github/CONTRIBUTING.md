@@ -9,9 +9,11 @@ You are only eligible for the credits.txt if you meet one of these requirements.
     * 2 files with each exceeding **250 characters**
     * files with **500 characters** or more
 
-Updating files with single character fixes or fixing two sentences does not make you eligible for your name in the credits. 
+Updating files with single character fixes or fixing two sentences does not make you eligible for your name as an author in the manifest / credits. 
 
 Also, if you have not updated a translation after more than a year and the translations did undergo major changes (that includes changes to more than 50% of all files, also counting in addition of files), your name should be removed. [^note]
+
+### Do **not** included any advertisements/pointers to non-game stuff other than the translation author in the manifest file
 
 
 [^note]: 
