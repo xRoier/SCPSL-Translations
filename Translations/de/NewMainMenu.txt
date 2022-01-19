@@ -90,3 +90,4 @@ Taskleiste beim Spawn aufblinken lassen
 Umgebungsunschärfe
 Volumetrische Lichter
 Bloom
+Untertitel umschalten
