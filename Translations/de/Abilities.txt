@@ -1,7 +1,7 @@
 Fähigkeit nicht gefunden:Die dieser Fähigkeit zugeordnete Fähigkeits-ID existiert nicht.
 Sprinten:Erhöht deine Bewegungsgeschwindigkeit, aber auch die deine Laufgeräusche.
 Schleichen:Deine Bewegungen werden leiser auf Kosten der Geschwindigkeit.
-Inventar:Öffne dein Inventar und wähle ein Item mit Links-Klick aus, oder lasse es mit Rechts-Klick fallen.
+Inventar:Öffne dein Inventar und wähle einen Gegenstand mit Links-Klick aus, oder lasse es mit Rechts-Klick fallen.
 Unbewaffnet:Du hast gar nichts. Finde etwas, egal was.
 Zugangskarte:Du hast eine Zugangskarte, nicht die beste aber immerhin. Verlier sie nicht!
 Standard Ausrüstung:Du bist mit einem Gewehr, Granaten, einem Radio, einem Entwaffner und einer Zugangskarte ausgerüstet.
