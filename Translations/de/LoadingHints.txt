@@ -37,7 +37,7 @@ SCP-018 ist nicht vorhersehbar. Nimm Deckung, wenn es umherspringt.
 SCP-018 kann genutzt werden, um Verfolger zu bremsen.
 SCp-914 kann alle Gegenstände verändern, auch Waffen und Munition.
 SCP-914 kann Radios und die Micro H.I.D aufladen.
-SCP-070 startet sehr schwach, wird im Laufe des Spiels aber immer stärker.
+SCP-079 startet sehr schwach, wird im Laufe des Spiels aber immer stärker.
 SCP-079 kann Türen verschließen, Lichter ausschalten und Tesla Gates überladen.
 Ein Tesla Gate das von SCP-079 angesehen wird erscheint immer als aktiv.
 SCP-079 kann Lichter in einem Raum nicht ausschalten, wenn eine Tür zerstört ist. 
