@@ -20,8 +20,8 @@ Einrichtung ist in Operationsfähigen Zustand zurückgekehrt.
 Achtung, jegliches Personal.<split>Die Light Containment Zonen Dekontaminierungssequenz wird in T-15 Minuten erfolgen.<split>Jegliches biologische Material muss entfernt werden, sodass es nicht zerstört wird.
 Gefahr, die Light Containment Zonen Dekontaminierungssequenz erfolgt in T-[time] Minuten.
 Danger, die Light Containment Zonen Dekontaminierungssequenz erfolgt in T-1 Minute.
-Danger, die Light Containment Zonen Dekontaminierungssequenz efolgt in T-30 Sekunden.<split>Alle Kontrollpunkte wurden permanent geöffnet. Bitte sofort Evakuieren.
-Die Light Containment Zone ist abgeriegelt und bereit für die Dekontaminierung.<split>The entfernung von biologischen Materials hat nun begonnen.
+Danger, die Light Containment Zonen Dekontaminierungssequenz efolgt in T-30 Sekunden.<split>Alle Kontrollpunkte wurden permanent geöffnet. Bitte sofort evakuieren.
+Die Light Containment Zone ist abgeriegelt und bereit für die Dekontaminierung.<split>Die Entfernung von biologischen Materials hat nun begonnen.
 ALPHA SPRENGKOPF NOTFALLDETONATIONSSEQUENZ GESTARTET.<split>DER UNTERIRDISCHE BEREICH DER EINRICHTUNG WIRD IN T-[time] SEKUNDEN DETONIERT.
 DETONATION ABGEBROCHEN. STARTE SYSTEME NEU.
 DETONATIONSSEQUENZ WIEDERAUFGENOMMEN, T-[time] SEKUNDEN.
