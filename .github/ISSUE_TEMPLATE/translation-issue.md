@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the issue you are experiencing**
+A clear and concise description of what the issue is.
 
 (If this is a game bug, please report it here instead: https://support.scpslgame.com/bug-report )
