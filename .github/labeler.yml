@@ -62,6 +62,9 @@ pt-BR:
 pt: 
  - Translations/pt/*
  - Steam-Translations/**/*_portuguese.vdf
+ro:
+ - Translations/ru/*
+ - Steam-Translations/**/*_romanian.vdf
 ru: 
  - Translations/ru/*
  - Steam-Translations/**/*_russian.vdf
