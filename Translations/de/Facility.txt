@@ -41,3 +41,4 @@ RUNDENSTART IST <color=#FF5050>PAUSIERT</color>
 REDUZIERUNG DER ZIELEMPFINDLICHKEIT
 Drücke [key] um den Wurf abzubrechen.
 Zielen Umschalten
+Zuschauerchat stummschalten
