@@ -3,11 +3,14 @@
 
 # Github folder changes goes by management
 .github/ @northwood-studios/translation-management
+/* @northwood-studios/translation-management
+
 
 # English Checks done by Translation Mangement (Evan)
 /Translations/English\ (default)/ @northwood-studios/translation-management
 /Steam-Translations/Achievements/700330_loc_english.vdf @northwood-studios/translation-management
 /Steam-Translations/Rich\ Presence/700330_loc_english.vdf @northwood-studios/translation-management
+
 
 # Finnish by Foxeworks
 /Translations/fi/ @Foxeworks
