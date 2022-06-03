@@ -1,8 +1,8 @@
 ¡La ronda ha acabado!
-LOS SCPs GANAN
-LA FUNDACIÓN GANA
-LA INSURGENCIA GANA
-EMPATE
+<size=100>LOS SCPs GANAN</size>
+<size=100>LA FUNDACIÓN GANA</size>
+<size=100>LA INSURGENCIA GANA</size>
+<size=100>EMPATE</size>
 Los sujetos escapados han tomado el control de las instalaciones. Se ha enviado un equipo de emergencia.
 Todas las amenazas han sido neutralizados. Las instalaciones son seguras de nuevo.
 Toda la presencia de la fundación ha sido exterminada. Operativos aguardando próximas órdenes.
