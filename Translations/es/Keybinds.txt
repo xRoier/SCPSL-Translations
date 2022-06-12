@@ -26,5 +26,5 @@ Atajo de arma primaria
 Atajo de arma secundaria
 Atajo de articulo medico
 Ocultar Interfaz
-Niebla del noclip Si/No
+Niebla del noclip Sí/No
 Atajo granada
