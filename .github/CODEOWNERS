@@ -32,9 +32,9 @@
 /Translations/nb/ @Rnen
 *norwegian.vdf @Rnen
 
-# Polish by zabszk
-Translations/pl/ @zabszk
-*polish.vdf @zabszk
+# Polish by zabszk & Petris
+Translations/pl/ @zabszk @MichalPetryka
+*polish.vdf @zabszk @MichalPetryka
 
 # Russian by GuyFawkes
 /Translations/ru/ @GuyFawkes76
