@@ -9,7 +9,7 @@
 8~Tarjeta de Capitan de la MTF
 9~Tarjeta de Administrador
 10~Aparato de los Insurgentes del Caos
-11~Tarjeta Nivel-05
+11~Tarjeta Nivel-O5
 12~Radio
 13~COM-15
 14~Botiquín primeros auxilios~Cura tus heridas.
